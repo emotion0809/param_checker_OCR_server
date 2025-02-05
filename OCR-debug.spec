@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['canvas_updata.py', 'globals.py', 'pattern_recognition.py', 'rectangle_data.py', 'TCP_socket.py', 'UI.p'],
+    ['main.py', 'canvas_updata.py', 'globals.py', 'pattern_recognition.py', 'rectangle_data.py', 'TCP_socket.py', 'UI.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -26,7 +26,7 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=False,
+    console=True,
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,

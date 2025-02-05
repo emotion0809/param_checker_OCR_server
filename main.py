@@ -29,6 +29,11 @@ def loop_OCR():
         time.sleep(1)
 
 if __name__ == '__main__':
+    #取得json檔的絕對位置
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    print(current_directory)
+    gb.json_path = os.path.join(current_directory,"save\\save.json")
+    print(gb.json_path)
     #讀取json檔的資料
     if not os.path.isfile(gb.json_path):
         open(gb.json_path, "x") #如果json檔不在創建json檔
