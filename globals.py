@@ -2,23 +2,19 @@
 from rectangle_data import rectangle_data
 from threading import Event
 
-stop_event = Event()
+class Config:
+    def __init__(self):
+        self.stop_event = Event()
+        self.auto_rectangle = rectangle_data("green")
+        self.B_manual_rectangle = rectangle_data("purple")
+        self.Standard_Setting_rectangle = rectangle_data("red")
+        self.UI = None
+        self.screenshot_image = None
+        self.send_message_to_kvm = False
+        self.json_path = "./save/save.json"
+        self.save_data = {}
 
-auto_rectangle = rectangle_data("green")
-B_manual_rectangle = rectangle_data("purple")
-Standard_Setting_rectangle = rectangle_data("red")
-
-screenshot_image = None
-
-ready_to_label_Standard_Setting = False
-ready_to_label_auto = False
-ready_to_label_B_manual = False
-ready_to_label_something = False
-
-send_messsage_to_kvm = False
-
-json_path = ".\\save\\save.json"
-save_data = None
+gb = Config()
 
 
 

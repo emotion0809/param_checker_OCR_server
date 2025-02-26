@@ -5,6 +5,7 @@ class rectangle_data:
         self.top = None
         self.right = None
         self.bottom =  None
+        self.ready_to_label = False
         self.color = color
     
     def set_coordinate(self,left,top,right,bottom):
