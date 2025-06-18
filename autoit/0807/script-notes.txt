@@ -1,0 +1,5 @@
+注意powershell要將 PowerShell 預設執行原則從 Restricted 改為 RemoteSigned
+https://officeguide.cc/powershell-set-execution-policy-remote-signed/
+
+ftttp1: 輸入IP、開啟Local與Host資料夾
+ftttp2: 在檔案路徑搜尋檔案

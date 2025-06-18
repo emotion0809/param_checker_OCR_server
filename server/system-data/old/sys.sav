@@ -1,0 +1,1 @@
+{"params":[{"name":"Bond force","lowerBound":"0","upperBound":"12"},{"name":"Bond force tolerance","lowerBound":"0","upperBound":"5"},{"name":"Bond time","lowerBound":"0","upperBound":"700"},{"name":"Slow start height","lowerBound":"0","upperBound":"700"},{"name":"Touch down speed","lowerBound":"0","upperBound":"5"}],"managementPassword":"autohhcparam"}

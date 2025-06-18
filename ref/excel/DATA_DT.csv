@@ -1,0 +1,2503 @@
+TYPE DATA,DK105-X-78-C6
+
+[Recognition mode1]
+1,INTERPOSER POS REC,1.000,
+2,DIE POS REC(STAGE),1.000,
+3,OVERLAP POS REC,0.000,
+4,DIE POS REC(WAFER),1.000,
+5,DIE INK MARK REC,0.000,
+6,DIE CRACK REC,0.000,
+7,DUMMY DIE REC,0.000,
+8,PRE BOND INSPECTION REC,0.000,
+
+[Recognition mode2]
+1,TARGET SEARCH,1.000,
+2,WAFER ALIGN,1.000,
+3,DIE INK MARK SKIP,0.000,
+4,WAFER REC ERROR SKIP,1.000,
+5,CHECK DIE,1.000,
+6,LAMI POS REC,0.000,
+7,DIE PRESENCE REC AT LAMI,0.000,
+8,HIGH ACCURACY REC,0.000,
+
+[Interposer dimension 1 (common)]
+1,Interposer type,0.000,
+2,Length,240000.000,É m
+3,Width,74000.000,É m
+4,Number of column,27.000,
+5,1st paddle location,14100.000,É m
+6,Corner offset,500.000,É m
+7,Data No. of pre bond rec.,0.000,
+8,Pre bond rec. err. stop cnt,0.000,
+9,Pre bond rec. light,255.000,
+
+[Interposer dimension 2 (LOC)]
+1,INT / SUB thickness,240.000,É m
+2,Adhesive tape thickness,50.000,É m
+3,Adhesive tape width,7560.000,É m
+4,Upset / Downset,20.000,É m
+
+[Interposer dimension 2 (csp)]
+1,Carrier thickness,0.000,É m
+2,Tape thickness,0.000,É m
+3,Elastma thickness,0.000,É m
+
+[Interposer dimension 3 (pitch)]
+1,Pitch type,1.000,
+2,Number of block,9.000,
+3,Block pitch A,7700.000,É m
+4,Block pitch B,7700.000,É m
+5,Block pitch C,7700.000,É m
+6,Block pitch D,7700.000,É m
+7,Block pitch E,7700.000,É m
+8,Block pitch F,7700.000,É m
+9,Block pitch G,7700.000,É m
+10,Block pitch H,7700.000,É m
+
+[Interposer dimension 4 (pitch)]
+1,Block pitch I,17600.000,É m
+2,Block pitch J,0.000,É m
+3,Block pitch K,0.000,É m
+4,Block pitch L,0.000,É m
+5,Block pitch M,0.000,É m
+6,Block pitch N,0.000,É m
+7,Block pitch O,0.000,É m
+8,Block pitch P,0.000,É m
+9,Block pitch Q,0.000,É m
+10,Block pitch R,0.000,É m
+
+[Interposer dimension 5 (pitch)]
+1,Block pitch S,0.000,É m
+2,Block pitch T,0.000,É m
+3,Number of column,0.000,
+
+[Interposer dimension 6 (pitch)]
+1,Nos of lead-hole,1.000,
+2,Nos of hole in pitch A,0.000,
+3,Nos of hole in pitch B,0.000,
+4,Nos of hole in pitch C,0.000,
+5,Nos of hole in pitch D,0.000,
+6,Nos of hole in pitch E,0.000,
+7,Nos of hole in pitch F,0.000,
+8,Nos of hole in pitch G,0.000,
+9,Nos of hole in pitch H,0.000,
+10,Nos of hole in pitch I,0.000,
+
+[Interposer dimension 7 (pitch)]
+1,Nos of hole in pitch J,0.000,
+2,Nos of hole in pitch K,0.000,
+3,Nos of hole in pitch L,0.000,
+4,Nos of hole in pitch M,0.000,
+5,Nos of hole in pitch N,0.000,
+6,Nos of hole in pitch O,0.000,
+7,Nos of hole in pitch P,0.000,
+8,Nos of hole in pitch Q,0.000,
+9,Nos of hole in pitch R,0.000,
+10,Nos of hole in pitch S,0.000,
+
+[Interposer dimension 8 (pitch)]
+1,Nos of hole in pitch T,0.000,
+
+[Interposer dimension 9 (multi die index)]
+1,Index mode change,0.000,
+2,1st paddle location,0.000,É m
+3,Pitch type,0.000,
+4,Number of block,0.000,
+5,Block pitch A,0.000,É m
+6,Block pitch B,0.000,É m
+7,Block pitch C,0.000,É m
+8,Block pitch D,0.000,É m
+9,Block pitch E,0.000,É m
+10,Block pitch F,0.000,É m
+
+[Interposer dimension 10 (multi die index)]
+1,Block pitch G,0.000,É m
+2,Block pitch H,0.000,É m
+3,Block pitch I,0.000,É m
+4,Block pitch J,0.000,É m
+5,Block pitch K,0.000,É m
+6,Block pitch L,0.000,É m
+7,Block pitch M,0.000,É m
+8,Block pitch N,0.000,É m
+9,Block pitch O,0.000,É m
+10,Block pitch P,0.000,É m
+
+[Interposer dimension 11 (multi die index)]
+1,Block pitch Q,0.000,É m
+2,Block pitch R,0.000,É m
+3,Block pitch S,0.000,É m
+4,Block pitch T,0.000,É m
+
+[Roller gripper]
+1,Top roller push stroke,100.000,É m
+2,Top roller lift up stroke,1500.000,É m
+3,Bottom roller upper pos.,200.000,É m
+4,Bottom roller lower pos.,1000.000,É m
+
+[Matrix interposer 1]
+1,Number of rows,6.000,
+2,Offset 1 X,0.000,É m
+3,Offset 1 Y,25550.000,É m
+4,Offset 2 X,0.000,É m
+5,Offset 2 Y,14850.000,É m
+6,Offset 3 X,0.000,É m
+7,Offset 3 Y,4150.000,É m
+8,Offset 4 X,0.000,É m
+9,Offset 4 Y,-6550.000,É m
+
+[Matrix interposer 2]
+1,Offset 5 X,0.000,É m
+2,Offset 5 Y,-17250.000,É m
+3,Offset 6 X,0.000,É m
+4,Offset 6 Y,-27950.000,É m
+5,Offset 7 X,0.000,É m
+6,Offset 7 Y,0.000,É m
+7,Offset 8 X,0.000,É m
+8,Offset 8 Y,0.000,É m
+9,Offset 9 X,0.000,É m
+10,Offset 9 Y,0.000,É m
+
+[Matrix interposer 3]
+1,Offset 10 X,0.000,É m
+2,Offset 10 Y,0.000,É m
+3,Offset 11 X,0.000,É m
+4,Offset 11 Y,0.000,É m
+5,Offset 12 X,0.000,É m
+6,Offset 12 Y,0.000,É m
+7,Offset 13 X,0.000,É m
+8,Offset 13 Y,0.000,É m
+9,Offset 14 X,0.000,É m
+10,Offset 14 Y,0.000,É m
+
+[Matrix interposer 4]
+1,Offset 15 X,0.000,É m
+2,Offset 15 Y,0.000,É m
+3,Offset 16 X,0.000,É m
+4,Offset 16 Y,0.000,É m
+
+[Interposer block data 1]
+1,Number of block,1.000,
+2,Offset 1 X,0.000,É m
+3,Offset 1 Y,0.000,É m
+4,Offset 2 X,0.000,É m
+5,Offset 2 Y,0.000,É m
+6,Offset 3 X,0.000,É m
+7,Offset 3 Y,0.000,É m
+8,Offset 4 X,0.000,É m
+9,Offset 4 Y,0.000,É m
+
+[Interposer block data 2]
+1,Offset 5 X,0.000,É m
+2,Offset 5 Y,0.000,É m
+3,Offset 6 X,0.000,É m
+4,Offset 6 Y,0.000,É m
+5,Offset 7 X,0.000,É m
+6,Offset 7 Y,0.000,É m
+7,Offset 8 X,0.000,É m
+8,Offset 8 Y,0.000,É m
+
+[Motion setup 1]
+1,Interposer clamper,0.000,
+2,REV interposer detection,1.000,
+3,Input media selection,1.000,
+4,BC reader for magazine,0.000,
+5,Interleaf detection,4.000,
+6,Interleaf vac on / phot on,1.000,
+7,Interleaf vac on / phot off,1.000,
+8,Interleaf vac off / phot on,0.000,
+9,Interleaf vac off / phot off,0.000,
+10,Number of loader arm Z,0.000,
+
+[Motion setup 2]
+1,Lamination feed check,0.000,
+2,Lamination clamper,1.000,
+3,Clamper heater,0.000,
+4,Magazine side clamp,0.000,
+5,Clamp suction motion,0.000,
+6,Lam clamp suction motion,0.000,
+
+[Motion setup 3]
+1,Frame map,0.000,
+2,Frame ID read,0.000,
+3,Frame ID position,0.000,É m
+
+[REV interposer detection]
+1,Shield. fore,50000.000,É m
+2,Shield. back,35000.000,É m
+3,Through. fore,78000.000,É m
+4,Through. back,56500.000,É m
+
+[Prebake motion]
+1,Prebake time,300.000,S
+2,Prebake time out,1800.000,S
+3,Preheat time out,99999.000,S
+4,Interposer time out,180.000,S
+5,Cycle time,1400.000,ms
+6,Motion mode,1.000,
+7,1st INT. pause time,0.000,ms
+8,N2 supply,0.000,
+
+[Interposer heat temp.]
+1,Prebake temp.,0.000,Åé
+2,Prebake heater limit,0.000,Åé
+3,Prebake step heat temp.,0.000,Åé
+4,PB pause time step temp.,0.000,S
+5,Prebake heater alarm DET.,1.000,
+6,Preheater temp.,0.000,Åé
+7,Preheater heater limit,0.000,Åé
+8,Preheater step heat temp.,0.000,Åé
+9,PH pause time step temp.,0.000,S
+10,Preheater alarm DET.,1.000,
+
+[Clamper / Preheat 1/2]
+1,Clamp full width,0.000,É m
+2,Top clamp window length,12000.000,É m
+3,Top clamp window width,60000.000,É m
+4,BTM clamp window length,12000.000,É m
+5,BTM clamp window width,60000.000,É m
+6,Over clamp,3000.000,É m
+7,Clamp gap,3000.000,É m
+8,Preheat plate length,295000.000,É m
+9,Preheat plate width,55000.000,É m
+10,L clamp air blow mode,0.000,
+
+[Clamper / Preheat 2/2]
+1,Lam clamp full length,60000.000,É m
+2,Lam top clamp window W,12000.000,É m
+3,Lam top clamp window L,70000.000,É m
+4,Lam btm clamp window W,12000.000,É m
+5,Lam btm clamp window L,70000.000,É m
+6,Lam l clamp air blow mode,0.000,
+
+[Option]
+1,Hard case motion,0.000,
+2,Hard case offset X,0.000,É m
+3,Hard case offset Y,0.000,É m
+4,Stamp motion,0.000,
+5,Stamp time,0.000,ms
+6,Stamp position,10000.000,É m
+
+[Input magazine dim.]
+1,Bottom slot height,16000.000,É m
+2,Magazine width,82630.000,É m
+3,Capacity,20.000,
+4,Slot pitch,6000.000,É m
+5,(LD)Magazine ID read,0.000,
+6,(LD)Magazine ID position Y,-30000.000,É m
+7,(LD)Magazine ID position Z,-100000.000,É m
+
+[Prebake magazine dim.]
+1,Bottom slot height,21000.000,É m
+2,Capacity,11.000,
+3,Slot pitch,9820.000,É m
+
+[Output magazine dim.]
+1,Bottom slot height,15800.000,É m
+2,Magazine width,82630.000,É m
+3,Capacity,20.000,
+4,Slot pitch,6000.000,É m
+5,Barcode position,0.000,É m
+6,Magazine barcode mode,1.000,
+7,(ULD)Magazine ID read,0.000,
+8,(ULD)Magazine ID position Y,30000.000,É m
+9,(ULD)Magazine ID position Z,-100000.000,É m
+
+[Wafer form1]
+1,Wafer radious,154000.000,É m
+2,Tape frame width,380000.000,É m
+3,O.F. radious,153500.000,É m
+4,Tape frame orientation,180.000,Åã
+5,O.F. orientation,0.000,Åã
+6,Tape frame thickness,1250.000,É m
+7,Die thickness,225.000,É m
+8,Wafer tape thickness,90.000,É m
+
+[Wafer form2]
+1,Placement offset X,0.000,É m
+2,Placement offset Y,0.000,É m
+3,Barcode position X,-13000.000,É m
+4,Barcode position Y,0.000,É m
+5,Barcode position T,178.000,Åã
+6,Die location maximum X,200.000,
+7,Die location maximum Y,200.000,
+8,Die location minimum X,-200.000,
+9,Die location minimum Y,-200.000,
+
+[Wafer cassette dimension]
+1,Capacity,13.000,
+2,Slot pitch,10000.000,É m
+3,Bottom slot height,33000.000,É m
+4,NUM of stacked cassette,1.000,
+5,Cassete height,215000.000,É m
+6,W cassette ID read,0.000,
+7,W cassette ID position Z,0.000,É m
+
+[Wafer handling setup1]
+1,Die input media,0.000,
+2,Wafer size,2.000,
+3,Pickup direction,1.000,
+4,Pick up start position,0.000,
+5,Tolerance X,20.000,É m
+6,Tolerance Y,25.000,É m
+7,Correction X,1800.000,É m
+8,Correction Y,2800.000,É m
+9,Suction timing,0.000,
+10,BIN code pattern,1.000,
+
+[Wafer handling setup2]
+1,Heat up time,0.000,ms
+2,Pre expand heat up time,0.000,ms
+3,Post expand heat up time,0.000,ms
+4,Heat rotation speed,3.000,%
+5,Num of NG bin code,1.000,
+6,Move die check X,0.000,
+7,Move die check Y,0.000,
+8,Num of check error skip,0.000,
+
+[Wafer expansion]
+1,Expansion,4500.000,É m
+2,Expand before pos,2500.000,É m
+
+[Wafer heat temp.]
+1,Heater temp.,0.000,Åé
+2,Heater limit,0.000,Åé
+3,Step heat temp.,0.000,Åé
+4,Pause time step temp.,0.000,S
+5,Heater alarm DET.,1.000,
+
+[Die tray pickup setup]
+1,Die tray pick up direction,1.000,
+2,Die tray alignment mode,0.000,
+
+[Die tray dimension1]
+1,Number of tray,0.000,
+2,Number of columns X,0.000,
+3,Number of columns Y,0.000,
+4,Pickup position X,0.000,É m
+5,Pickup position Y,0.000,É m
+6,Alignment coordinate X1,0.000,É m
+7,Alignment coordinate Y1,0.000,É m
+8,Alignment coordinate X2,0.000,É m
+9,Alignment coordinate Y2,0.000,É m
+10,Block pitch,0.000,É m
+
+[Die tray dimension2]
+1,2nd tray offset X,0.000,É m
+2,2nd tray offset Y,0.000,É m
+3,3nd tray offset X,0.000,É m
+4,3nd tray offset Y,0.000,É m
+5,4nd tray offset X,0.000,É m
+6,4nd tray offset Y,0.000,É m
+7,5nd tray offset X,0.000,É m
+8,5nd tray offset Y,0.000,É m
+9,6nd tray offset X,0.000,É m
+10,6nd tray offset Y,0.000,É m
+
+[Die tray dimension3]
+1,7nd tray offset X,0.000,É m
+2,7nd tray offset Y,0.000,É m
+3,8nd tray offset X,0.000,É m
+4,8nd tray offset Y,0.000,É m
+5,9nd tray offset X,0.000,É m
+6,9nd tray offset Y,0.000,É m
+7,10nd tray offset X,0.000,É m
+8,10nd tray offset Y,0.000,É m
+9,11nd tray offset X,0.000,É m
+10,11d tray offset Y,0.000,É m
+
+[Die tray dimension4]
+1,12nd tray offset X,0.000,É m
+2,12nd tray offset Y,0.000,É m
+
+[Dome rec. teaching]
+1,Dome recognition,0.000,
+2,(Dome)Tolerable displacement X,0.000,É m
+3,(Dome)Tolerable displacement Y,0.000,É m
+4,(Dome)Tolerable displacement T,0.000,Åã
+
+[Wafer/Dome rec/Rec data]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,85.000,%
+3,Rec. ring light,0.000,
+4,Rec. coaxial light,0.000,
+5,Camera mag. of dome rec.,1.000,
+
+[Die size]
+1,Die size X,3656.300,É m
+2,Die size Y,5572.500,É m
+
+[Die pitch]
+1,Die pitch X,3676.600,É m
+2,Die pitch Y,5600.200,É m
+
+[Wafer/REC data/Pattern]
+1,Rec. threshold,75.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Retry ring light,0.000,
+5,Retry coaxial light,0.000,
+6,Rec. ring light,30.000,
+7,Rec. coaxial light,55.000,
+8,Camera mag. of die rec.,5.000,
+
+[Wafer/REC data/OUTLINE REC]
+1,OL / Outline at retry,0.000,
+2,OL / Search roughness,25.000,
+3,OL / Chipped PTN tolerance,40.000,%
+4,OL / Dirty PTN tolerance,40.000,%
+
+[Wafer/REC data/Edge]
+1,Edge judgement,1.000,
+2,Rec. threshold,80.000,%
+3,Rec. cut off,85.000,%
+4,Edge 1 max bright,220.000,
+5,Edge 1 min bright,100.000,
+6,Edge 2 max bright,220.000,
+7,Edge 2 min bright,100.000,
+8,Edge 3 max bright,220.000,
+9,Edge 3 min bright,100.000,
+10,Edge 4 max bright,220.000,
+11,Edge 4 min bright,100.000,
+
+[Wafer/REC data/Ink mark]
+1,Ink mark judgement,1.000,
+2,Rec. threshold,80.000,%
+3,Rec. cut off,85.000,%
+4,Upper brightness,0.000,
+5,Lower brightness,0.000,
+6,Dot threshold,0.000,
+7,Number of split X,1.000,
+8,Number of split Y,1.000,
+
+[Wafer/REC data/Pattern(Target Rec. MAG)]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,85.000,%
+3,No. of retry,0.000,
+4,Retry ring light,0.000,
+5,Retry coaxial light,0.000,
+6,Rec. ring light,0.000,
+7,Rec. coaxial light,50.000,
+8,Camera mag. of target rec.,5.000,
+
+[Wafer/REC data/Edge(Target rec. MAG)]
+1,Edge judgement,1.000,
+2,Rec. threshold,80.000,%
+3,Rec. cut off,85.000,%
+4,Edge 1 max bright,0.000,
+5,Edge 1 min bright,0.000,
+6,Edge 2 max bright,0.000,
+7,Edge 2 min bright,0.000,
+8,Edge 3 max bright,0.000,
+9,Edge 3 min bright,0.000,
+10,Edge 4 max bright,0.000,
+11,Edge 4 min bright,0.000,
+
+[Wafer/REC data/Mark die]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,85.000,%
+3,Rec. ring light,0.000,
+4,Rec. coaxial light,0.000,
+
+[Wafer/REC data/Mirror]
+1,Rec. ring light,110.000,
+2,Rec. coaxial light,0.000,
+3,Upper briteness,200.000,
+
+[Wafer/REC data/Alignment]
+1,Manu align ring lgt,100.000,
+2,Manu align coaxial lgt,55.000,
+
+[Alignment reference point]
+1,Alignment point X1,-48100.000,É m
+2,Alignment point Y1,-38633.800,É m
+3,Alignment point X2,43523.800,É m
+4,Alignment point Y2,78890.000,É m
+
+[Inspection REC data/Die REC PTN1]
+1,(INS1)Rec. ring light,100.000,
+2,(INS1)Rec. coaxial light,0.000,
+3,(INS1)Rec. threshold,70.000,%
+4,(INS1)Rec. cut off,70.000,%
+
+[Inspection REC data/Die REC PTN2]
+1,(INS2)Rec. ring light,100.000,
+2,(INS2)Rec. coaxial light,0.000,
+3,(INS2)Rec. threshold,70.000,%
+4,(INS2)Rec. cut off,70.000,%
+
+[Wafer map data]
+1,Check die point ,2.000,
+2,CHK1_HOLD1(L-U),0.000,
+3,CHK1_HOLD2(M-U),0.000,
+4,CHK1_HOLD3(R-U),0.000,
+5,CHK1_HOLD4(L-M),0.000,
+6,CHK1_HOLD5(M-M),0.000,
+7,CHK1_HOLD6(R-M),0.000,
+8,CHK1_HOLD7(L-D),0.000,
+9,CHK1_HOLD8(M-D),0.000,
+10,CHK1_HOLD9(R-D),0.000,
+11,CHK1_TYPE1(L-U),0.000,
+12,CHK1_TYPE2(M-U),0.000,
+13,CHK1_TYPE3(R-U),0.000,
+14,CHK1_TYPE4(L-M),0.000,
+15,CHK1_TYPE5(M-M),0.000,
+16,CHK1_TYPE6(R-M),0.000,
+17,CHK1_TYPE7(L-D),0.000,
+18,CHK1_TYPE8(M-D),0.000,
+19,CHK1_TYPE9(R-D),0.000,
+20,CHK2_HOLD1(L-U),0.000,
+21,CHK2_HOLD2(M-U),0.000,
+22,CHK2_HOLD3(R-U),0.000,
+23,CHK2_HOLD4(L-M),0.000,
+24,CHK2_HOLD5(M-M),0.000,
+25,CHK2_HOLD6(R-M),0.000,
+26,CHK2_HOLD7(L-D),0.000,
+27,CHK2_HOLD8(M-D),0.000,
+28,CHK2_HOLD9(R-D),0.000,
+29,CHK2_TYPE1(L-U),0.000,
+30,CHK2_TYPE2(M-U),0.000,
+31,CHK2_TYPE3(R-U),0.000,
+32,CHK2_TYPE4(L-M),0.000,
+33,CHK2_TYPE5(M-M),0.000,
+34,CHK2_TYPE6(R-M),0.000,
+35,CHK2_TYPE7(L-D),0.000,
+36,CHK2_TYPE8(M-D),0.000,
+37,CHK2_TYPE9(R-D),0.000,
+38,CHK3_HOLD1(L-U),0.000,
+39,CHK3_HOLD2(M-U),0.000,
+40,CHK3_HOLD3(R-U),0.000,
+41,CHK3_HOLD4(L-M),0.000,
+42,CHK3_HOLD5(M-M),0.000,
+43,CHK3_HOLD6(R-M),0.000,
+44,CHK3_HOLD7(L-D),0.000,
+45,CHK3_HOLD8(M-D),0.000,
+46,CHK3_HOLD9(R-D),0.000,
+47,CHK3_TYPE1(L-U),0.000,
+48,CHK3_HOLD2(M-U),0.000,
+49,CHK3_TYPE3(R-U),0.000,
+50,CHK3_TYPE4(L-M),0.000,
+51,CHK3_TYPE5(M-M),0.000,
+52,CHK3_TYPE6(R-M),0.000,
+53,CHK3_TYPE7(L-D),0.000,
+54,CHK3_TYPE8(M-D),0.000,
+55,CHK3_TYPE9(R-D),0.000,
+56,CHK4_HOLD1(L-U),0.000,
+57,CHK4_HOLD2(M-U),0.000,
+58,CHK4_HOLD3(R-U),0.000,
+59,CHK4_HOLD4(L-M),0.000,
+60,CHK4_HOLD5(M-M),0.000,
+61,CHK4_HOLD6(R-M),0.000,
+62,CHK4_HOLD7(L-D),0.000,
+63,CHK4_HOLD8(M-D),0.000,
+64,CHK4_HOLD9(R-D),0.000,
+65,CHK4_TYPE1(L-U),0.000,
+66,CHK4_TYPE2(M-U),0.000,
+67,CHK4_TYPE3(R-U),0.000,
+68,CHK4_TYPE4(L-M),0.000,
+69,CHK4_TYPE5(M-M),0.000,
+70,CHK4_TYPE6(R-M),0.000,
+71,CHK4_TYPE7(L-D),0.000,
+72,CHK4_TYPE8(M-D),0.000,
+73,CHK4_TYPE9(R-D),0.000,
+74,WAFER TYPE,0.000,
+75,WAF REC SETTLED TYPE,0.000,
+76,AROUND DIE NUMBER,2.000,
+77,END DIE NUMBER,5.000,
+78,WAF MAP OFFSET (UP),0.000,
+79,WAF MAP OFFSET (DOWN),0.000,
+80,WAF MAP OFFSET (LEFT),0.000,
+81,WAF MAP OFFSET (RIGHT),0.000,
+
+[Die presence rec. teaching]
+1,Die presence rec.,0.000,
+
+[Wafer/Die presence rec./Rec. data]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,85.000,%
+3,Rec. ring light,0.000,
+4,Rec. coaxial light,0.000,
+5,Camera mag. ,1.000,
+
+[Bond head condition]
+1,Bond force,11.500,N
+2,Bond force tolerance,5.000,N
+3,Bond time,500.000,ms
+4,Slow start height,500.000,É m
+5,Touch down speed,8.000,mm/s
+6,Initial speed,300.000,mm/s
+7,Serch speed,8.000,mm/s
+8,Reject die bond time,0.000,ms
+
+[Bond tool cleaning1]
+1,Frequancy,400.000,CYC
+2,Temp. recovery time,0.000,ms
+3,Grindstone stroke X,3000.000,É m
+4,Grindstone stroke Y,2000.000,É m
+5,Number of cycles(G/S),10.000,
+6,Grind force(G/S),29.400,N
+7,Tolerable cleaning force,29.400,N
+8,Grindstone speed,10.000,mm/s
+
+[Bond tool cleaning2]
+1,Brush stroke X,3000.000,É m
+2,Brush stroke Y,2000.000,É m
+3,Number of cycles(G/B),3.000,
+4,Grind force(G/B),9.800,N
+5,Tolerable cleaning force,9.800,N
+6,Grindbrush speed,10.000,mm/s
+
+[Patrol]
+1,Number of view point X,5.000,
+2,Number of view point Y,5.000,
+3,View area X1,-5000.000,É m
+4,View area X2,5000.000,É m
+5,View area Y1,5000.000,É m
+6,View area Y2,-5000.000,É m
+7,Pause time,500.000,ms
+8,Ring lighting,120.000,
+9,On-axis lighting,80.000,
+
+[Bond condition(DAF)]
+1,Bond mode (DAF),0.000,
+
+[Pickup data1(DAF)]
+1,Pickup mode (DAF),0.000,
+2,Pickup T (DAF),45.000,Åã
+3,Pickup force (DAF),1.000,N
+4,Pickup ascend speed (DAF),30.000,%
+5,P/U ascent SPD CHG HGT (DAF),100.000,É m
+6,Pickup HGT (METAL) (DAF),100.000,É m
+7,P/U land mode (DAF),0.000,
+8,P/U start height (DAF),500.000,É m
+9,P/U land speed (DAF),20.000,mm/s
+
+[Pickup data2(DAF)]
+1,NUM of P/U retry (DAF),0.000,
+2,NUM of P/U retry to stop (DAF),0.000,
+3,CLT suction afetr land (DAF),0.000,
+4,P/U timer (DAF),0.000,ms
+
+[Motion setup(DAF)]
+1,Bond area X (DAF),90000.000,É m
+2,Bond area Y (DAF),90000.000,É m
+3,Metal CLT over push (DAF),0.000,É m
+4,Paste press (DAF),0.000,É m
+
+[Bond data1(DAF)]
+1,NUM of bond (DAF),1.000,
+2,Bond ascend speed (DAF),100.000,%
+3,Bond ascent SPD CHG HGT (DAF),0.000,É m
+4,Bond land mode (DAF),0.000,
+5,Release air on time (DAF),0.000,ms
+6,Bond start height (DAF),500.000,É m
+7,Bond land speed (DAF),20.000,mm/s
+
+[Bond data2(DAF)]
+1,Bond position 1 X (DAF),0.000,É m
+2,Bond position 1 Y (DAF),0.000,É m
+3,Bond height 1 (DAF),0.000,É m
+4,Bond position 1 T (DAF),0.000,Åã
+5,Bond force 1 (DAF),1.200,N
+6,Bond time 1 (DAF),100.000,ms
+
+[Bond data3(DAF)]
+1,Bond position 2 X (DAF),0.000,É m
+2,Bond position 2 Y (DAF),0.000,É m
+3,Bond height 2 (DAF),0.000,É m
+4,Bond position 2 T (DAF),0.000,Åã
+5,Bond force 2 (DAF),1.200,N
+6,Bond time 2 (DAF),100.000,ms
+
+[Bond data4(DAF)]
+1,Bond position 3 X (DAF),0.000,É m
+2,Bond position 3 Y (DAF),0.000,É m
+3,Bond height 3 (DAF),0.000,É m
+4,Bond position 3 T (DAF),0.000,Åã
+5,Bond force 3 (DAF),1.200,N
+6,Bond time 3 (DAF),100.000,ms
+
+[Bond data5(DAF)]
+1,Bond position 4 X (DAF),0.000,É m
+2,Bond position 4 Y (DAF),0.000,É m
+3,Bond height 4 (DAF),0.000,É m
+4,Bond position 4 T (DAF),0.000,Åã
+5,Bond force 4 (DAF),1.200,N
+6,Bond time 4 (DAF),100.000,ms
+
+[Bond data6(DAF)]
+1,Bond position 5 X (DAF),0.000,É m
+2,Bond position 5 Y (DAF),0.000,É m
+3,Bond height 5 (DAF),0.000,É m
+4,Bond position 5 T (DAF),0.000,Åã
+5,Bond force 5 (DAF),1.200,N
+6,Bond time 5 (DAF),100.000,ms
+
+[Bond data7(DAF)]
+1,Bond position 6 X (DAF),0.000,É m
+2,Bond position 6 Y (DAF),0.000,É m
+3,Bond height 6 (DAF),0.000,É m
+4,Bond position 6 T (DAF),0.000,Åã
+5,Bond force 6 (DAF),1.200,N
+6,Bond time 6 (DAF),100.000,ms
+
+[Bond data8(DAF)]
+1,Bond position 7 X (DAF),0.000,É m
+2,Bond position 7 Y (DAF),0.000,É m
+3,Bond height 7 (DAF),0.000,É m
+4,Bond position 7 T (DAF),0.000,Åã
+5,Bond force 7 (DAF),1.200,N
+6,Bond time 7 (DAF),100.000,ms
+
+[Bond data9(DAF)]
+1,Bond position 8 X (DAF),0.000,É m
+2,Bond position 8 Y (DAF),0.000,É m
+3,Bond height 8 (DAF),0.000,É m
+4,Bond position 8 T (DAF),0.000,Åã
+5,Bond force 8 (DAF),1.200,N
+6,Bond time 8 (DAF),100.000,ms
+
+[Bond data10(DAF)]
+1,Bond position 9 X (DAF),0.000,É m
+2,Bond position 9 Y (DAF),0.000,É m
+3,Bond height 9 (DAF),0.000,É m
+4,Bond position 9 T (DAF),0.000,Åã
+5,Bond force 9 (DAF),1.200,N
+6,Bond time 9 (DAF),100.000,ms
+
+[Bond data11(DAF)]
+1,Bond position 10 X (DAF),0.000,É m
+2,Bond position 10 Y (DAF),0.000,É m
+3,Bond height 10 (DAF),0.000,É m
+4,Bond position 10 T (DAF),0.000,Åã
+5,Bond force 10 (DAF),1.200,N
+6,Bond time 10 (DAF),100.000,ms
+
+[Bond data12(DAF)]
+1,Bond position 11 X (DAF),0.000,É m
+2,Bond position 11 Y (DAF),0.000,É m
+3,Bond height 11 (DAF),0.000,É m
+4,Bond position 11 T (DAF),0.000,Åã
+5,Bond force 11 (DAF),1.200,N
+6,Bond time 11 (DAF),100.000,ms
+
+[Bond data13(DAF)]
+1,Bond position 12 X (DAF),0.000,É m
+2,Bond position 12 Y (DAF),0.000,É m
+3,Bond height 12 (DAF),0.000,É m
+4,Bond position 12 T (DAF),0.000,Åã
+5,Bond force 12 (DAF),1.200,N
+6,Bond time 12 (DAF),100.000,ms
+
+[Bond data14(DAF)]
+1,Bond position 13 X (DAF),0.000,É m
+2,Bond position 13 Y (DAF),0.000,É m
+3,Bond height 13 (DAF),0.000,É m
+4,Bond position 13 T (DAF),0.000,Åã
+5,Bond force 13 (DAF),1.200,N
+6,Bond time 13 (DAF),100.000,ms
+
+[Bond data15(DAF)]
+1,Bond position 14 X (DAF),0.000,É m
+2,Bond position 14 Y (DAF),0.000,É m
+3,Bond height 14 (DAF),0.000,É m
+4,Bond position 14 T (DAF),0.000,Åã
+5,Bond force 14 (DAF),1.200,N
+6,Bond time 14 (DAF),100.000,ms
+
+[Bond data16(DAF)]
+1,Bond position 15 X (DAF),0.000,É m
+2,Bond position 15 Y (DAF),0.000,É m
+3,Bond height 15 (DAF),0.000,É m
+4,Bond position 15 T (DAF),0.000,Åã
+5,Bond force 15 (DAF),1.200,N
+6,Bond time 15 (DAF),100.000,ms
+
+[Bond data17(DAF)]
+1,Bond position 16 X (DAF),0.000,É m
+2,Bond position 16 Y (DAF),0.000,É m
+3,Bond height 16 (DAF),0.000,É m
+4,Bond position 16 T (DAF),0.000,Åã
+5,Bond force 16 (DAF),1.200,N
+6,Bond time 16 (DAF),100.000,ms
+
+[Press(DAF)]
+1,NUM of press (DAF),0.000,
+2,Pre-bond delay 1 (DAF),0.000,ms
+3,Retry force 1 (DAF),1.000,N
+4,Retry time 1 (DAF),0.000,ms
+5,Pre-bond delay 2 (DAF),0.000,ms
+6,Retry force 2 (DAF),1.000,N
+7,Retry time 2 (DAF),0.000,ms
+8,Pre-bond delay 3 (DAF),0.000,ms
+9,Retry force 3 (DAF),1.000,N
+10,Retry time 3 (DAF),0.000,ms
+
+[Bond stage motion]
+1,Low speed start height,0.000,É m
+2,Overlap rec. height,-800.000,É m
+3,Low speed Z,10.000,mm/s
+4,Die time out,999999.000,S
+5,Frequency (air blow),1.000,IC
+6,Air blow time,50.000,ms
+7,Meniscus motion,0.000,
+8,Meniscus down speed,10.000,mm/s
+
+[Bond stage motion(DAF)]
+1,Stage Up/Down (DAF),0.000,
+2,Delay before descend (DAF),0.000,ms
+3,Delay after ascend (DAF),0.000,ms
+4,Ascend height (DAF),0.000,É m
+5,Stage ascend speed (DAF),50.000,%
+6,Descend height (DAF),0.000,É m
+7,Bond stage suction (DAF),0.000,
+
+[Bond stage cleaning]
+1,Frequancy,200.000,CYC
+2,Number of cycle,3.000,
+3,Stroke X,3000.000,É m
+4,Stroke Y,1000.000,É m
+5,Cleaning blow duration,2000.000,ms
+6,Grind speed,5.000,mm/s
+
+[Die locator1]
+1,Push X,490.000,É m
+2,Push Y,550.000,É m
+3,Back X,2000.000,É m
+4,Back Y,2000.000,É m
+5,Die locat speed,10.000,mm/s
+6,Retry mode,0.000,
+7,Number of warning,1.000,
+8,Die location mode,1.000,
+9,Step angle at retry,0.500,Åã
+10,Max angle at retry,5.000,Åã
+
+[Ejection]
+1,Ejection motion,1.000,
+2,Outer needle motion,2.000,
+3,Inner needle motion,0.000,
+4,Needle type,0.000,
+
+[Needle parameter]
+1,1st step needle height,500.000,É m
+2,1st step pause time,200.000,ms
+3,1st step needle speed,8.000,mm/s
+4,2nd step needle height,650.000,É m
+5,2nd step pause time,200.000,ms
+6,2nd step needle speed,8.000,mm/s
+7,Pre ascend delay,20.000,ms
+8,3rd step needle height,0.000,É m
+9,3rd step pause time,0.000,ms
+10,3rd step needle speed,0.000,mm/s
+
+[Dome heat temp.]
+1,Heater temp.,0.000,Åé
+2,Heater limit,0.000,Åé
+3,Step heat temp.,0.000,Åé
+4,Pause time step temp.,0.000,S
+
+[Transfer head stage side Z motion]
+1,Place speed low,3.000,mm/s
+2,P/U descend speed low,3.000,mm/s
+3,Pickup mode,0.000,
+4,Waiting height collet,0.000,É m
+
+[Transfer head wafer side Z motion]
+1,Place speed low,3.000,mm/s
+2,P/U descend speed low,3.000,mm/s
+3,Pickup mode,0.000,
+4,Waiting height collet,0.000,É m
+5,P/U ascent speed low,2.000,mm/s
+6,Ascent SPD CHG HGT,0.000,É m
+7,Number of P/U retry,0.000,
+8,Number of retry to stop,0.000,
+
+[Reject die tray 1/2]
+1,Number of tray,1.000,
+2,Number of colum X,10.000,
+3,Number of low Y,6.000,
+4,Pitch X,8463.889,É m
+5,Pitch Y,13580.000,É m
+6,1st pickup position X,37725.000,É m
+7,1st pickup position Y,32000.000,É m
+8,P/U descend speed low,3.000,mm/s
+
+[Reject die tray 2/2]
+1,2nd tray offset X,0.000,É m
+2,2nd tray offset Y,0.000,É m
+3,3rd tray offset X,0.000,É m
+4,3rd tray offset Y,0.000,É m
+5,4th tray offset X,0.000,É m
+6,4th tray offset Y,0.000,É m
+
+[Bond tool size]
+1,Bond tool width,500.000,É m
+2,Bond tool length,500.000,É m
+3,Bond stage width,500.000,É m
+4,Bond stage length,500.000,É m
+
+[Bond temp.]
+1,Head heater temp.,0.000,Åé
+2,Head heater limit,0.000,Åé
+3,Head step heat temp.,0.000,Åé
+4,H pause time step temp.,0.000,S
+5,Head heater alarm DET.,1.000,
+6,Stage heater temp.,0.000,Åé
+7,Stage heater limit,0.000,Åé
+8,Stage step heat temp.,0.000,Åé
+9,S pause time step temp.,0.000,S
+10,Stage heater alarm DET.,1.000,
+
+[Reject die bonding]
+1,Reject mark processing,2.000,
+2,Reject die bonding,5.000,
+3,Reject pad skip,3.000,
+4,Number of occurrence,6.000,
+5,Mark rec. order,0.000,
+6,Reject die P/U mode,0.000,
+7,P/U mode for fill bond,0.000,
+8,Allowable Num of NG site,20.000,
+9,NG bond angle (DAF),0.000,Åã
+10,F rec. error skip,0.000,
+
+[Post inspection teaching]
+1,Inspection mode,2.000,
+2,Num of die rec point,1.000,
+3,Interposer Re-recognition,0.000,
+4,Frequency,399.000,IC
+5,Tolerable displacement X,50.000,É m
+6,Tolerable displacement Y,50.000,É m
+7,Tolerable displacement T,0.300,Åã
+8,Eye-Inspe pause time,1200.000,ms
+9,Check after error,0.000,IC
+
+[Post inspection teaching 2]
+1,Inspection start column(Y),1.000,
+2,Frequency(column),1.000,
+3,Inspection start pos(unit),1.000,
+4,Frequency(unit),1.000,
+
+[Offset bond]
+1,Offset X,0.000,É m
+2,Offset Y,0.000,É m
+
+[Die recognition(pattern)]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,80.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,0.000,
+5,Rec. coaxial light,50.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+8,T tolerance,3.600,Åã
+9,Camera mag. of stage rec.,2.000,
+
+[Dummy die recognition(pattern)]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,85.000,
+5,Rec. coaxial light,1.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+
+[Interposer recognition(pattern)]
+1,Rec. threshold,85.000,%
+2,Rec. cut off,80.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,80.000,
+5,Rec. coaxial light,0.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+8,Interposer rec. mode,0.000,
+9,Block recognition,0.000,
+10,Rec. threshold(Upper),100.000,%
+11,Wrong IP check,0.000,
+
+[Interposer recognition(reject mark1)]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,80.000,
+5,Rec. coaxial light,0.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+8,Upper brightness,255.000,
+9,Lower brightness,155.000,
+10,Lower brightness(Upper),255.000,
+
+[Overlap recognition(Pattern)]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,80.000,
+5,Rec. coaxial light,0.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+8,Overlap rec. mode,1.000,
+
+[Overlap rec. position offset XYÉ∆ 1]
+1,Offset X,0.000,É m
+2,Offset Y,0.000,É m
+3,Offset T,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 2]
+1,Offset X1,0.000,É m
+2,Offset Y1,0.000,É m
+3,Offset T1,0.000,Åã
+4,Offset X2,0.000,É m
+5,Offset Y2,0.000,É m
+6,Offset T2,0.000,Åã
+7,Offset X3,0.000,É m
+8,Offset Y3,0.000,É m
+9,Offset T3,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 3]
+1,Offset X4,0.000,É m
+2,Offset Y4,0.000,É m
+3,Offset T4,0.000,Åã
+4,Offset X5,0.000,É m
+5,Offset Y5,0.000,É m
+6,Offset T5,0.000,Åã
+7,Offset X6,0.000,É m
+8,Offset Y6,0.000,É m
+9,Offset T6,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 4]
+1,Offset X7,0.000,É m
+2,Offset Y7,0.000,É m
+3,Offset T7,0.000,Åã
+4,Offset X8,0.000,É m
+5,Offset Y8,0.000,É m
+6,Offset T8,0.000,Åã
+7,Offset X9,0.000,É m
+8,Offset Y9,0.000,É m
+9,Offset T9,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 5]
+1,Offset X10,0.000,É m
+2,Offset Y10,0.000,É m
+3,Offset T10,0.000,Åã
+4,Offset X11,0.000,É m
+5,Offset Y11,0.000,É m
+6,Offset T11,0.000,Åã
+7,Offset X12,0.000,É m
+8,Offset Y12,0.000,É m
+9,Offset T12,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 6]
+1,Offset X13,0.000,É m
+2,Offset Y13,0.000,É m
+3,Offset T13,0.000,Åã
+4,Offset X14,0.000,É m
+5,Offset Y14,0.000,É m
+6,Offset T14,0.000,Åã
+7,Offset X15,0.000,É m
+8,Offset Y15,0.000,É m
+9,Offset T15,0.000,Åã
+
+[Overlap rec. position offset XYÉ∆ 7]
+1,Offset X16,0.000,É m
+2,Offset Y16,0.000,É m
+3,Offset T16,0.000,Åã
+
+[Bond position offset XYZÉ∆1]
+1,Offset X1,40.000,É m
+2,Offset Y1,-40.000,É m
+3,Offset Z1,0.000,É m
+4,Offset T1,0.000,Åã
+5,Offset X2,30.000,É m
+6,Offset Y2,-34.000,É m
+7,Offset Z2,0.000,É m
+8,Offset T2,0.000,Åã
+
+[Bond position offset XYZÉ∆2]
+1,Offset X3,45.000,É m
+2,Offset Y3,-32.000,É m
+3,Offset Z3,0.000,É m
+4,Offset T3,0.000,Åã
+5,Offset X4,50.000,É m
+6,Offset Y4,-40.000,É m
+7,Offset Z4,0.000,É m
+8,Offset T4,0.000,Åã
+
+[Bond position offset XYZÉ∆3]
+1,Offset X5,50.000,É m
+2,Offset Y5,-40.000,É m
+3,Offset Z5,0.000,É m
+4,Offset T5,0.000,Åã
+5,Offset X6,55.000,É m
+6,Offset Y6,-50.000,É m
+7,Offset Z6,0.000,É m
+8,Offset T6,0.000,Åã
+
+[Bond position offset XYZÉ∆4]
+1,Offset X7,0.000,É m
+2,Offset Y7,0.000,É m
+3,Offset Z7,0.000,É m
+4,Offset T7,0.000,Åã
+5,Offset X8,0.000,É m
+6,Offset Y8,0.000,É m
+7,Offset Z8,0.000,É m
+8,Offset T8,0.000,Åã
+
+[Bond position offset XYZÉ∆5]
+1,Offset X9,0.000,É m
+2,Offset Y9,0.000,É m
+3,Offset Z9,0.000,É m
+4,Offset T9,0.000,Åã
+5,Offset X10,0.000,É m
+6,Offset Y10,0.000,É m
+7,Offset Z10,0.000,É m
+8,Offset T10,0.000,Åã
+
+[Bond position offset XYZÉ∆6]
+1,Offset X11,0.000,É m
+2,Offset Y11,0.000,É m
+3,Offset Z11,0.000,É m
+4,Offset T11,0.000,Åã
+5,Offset X12,0.000,É m
+6,Offset Y12,0.000,É m
+7,Offset Z12,0.000,É m
+8,Offset T12,0.000,Åã
+
+[Bond position offset XYZÉ∆7]
+1,Offset X13,0.000,É m
+2,Offset Y13,0.000,É m
+3,Offset Z13,0.000,É m
+4,Offset T13,0.000,Åã
+5,Offset X14,0.000,É m
+6,Offset Y14,0.000,É m
+7,Offset Z14,0.000,É m
+8,Offset T14,0.000,Åã
+
+[Bond position offset XYZÉ∆8]
+1,Offset X15,0.000,É m
+2,Offset Y15,0.000,É m
+3,Offset Z15,0.000,É m
+4,Offset T15,0.000,Åã
+5,Offset X16,0.000,É m
+6,Offset Y16,0.000,É m
+7,Offset Z16,0.000,É m
+8,Offset T16,0.000,Åã
+
+[Stage offset]
+1,Offset X,-160.000,É m
+2,Offset Y,-95.000,É m
+3,Offset T,0.100,Åã
+
+[Lamination offset 1/2 ]
+1,Offset X,0.000,É m
+2,Offset Y,0.000,É m
+3,Offset Z,0.000,É m
+4,Lamination Offset Z1,0.000,É m
+5,Lamination Offset Z2,0.000,É m
+6,Lamination Offset Z3,0.000,É m
+7,Lamination Offset Z4,0.000,É m
+8,Lamination Offset Z5,0.000,É m
+9,Lamination Offset Z6,0.000,É m
+10,Lamination Offset Z7,0.000,É m
+11,Lamination Offset Z8,0.000,É m
+
+[Lamination offset 2/2 ]
+1,Lamination Offset Z9,0.000,É m
+2,Lamination Offset Z10,0.000,É m
+3,Lamination Offset Z11,0.000,É m
+4,Lamination Offset Z12,0.000,É m
+5,Lamination Offset Z13,0.000,É m
+6,Lamination Offset Z14,0.000,É m
+7,Lamination Offset Z15,0.000,É m
+8,Lamination Offset Z16,0.000,É m
+
+[Inspection offset]
+1,Post inspection X,0.000,É m
+2,Post inspection Y,0.000,É m
+3,Post inspection T,0.000,Åã
+4,Lamination inspection X,0.000,É m
+5,Lamination inspection Y,0.000,É m
+6,Lamination inspection T,0.000,Åã
+
+[Bond position fine adjustment]
+1,1st column offset in block,0.000,É m
+2,Last column offset in block,0.000,É m
+3,1st column offset in IP,0.000,É m
+4,Last column offset in IP,0.000,É m
+
+[Head tool offset]
+1,Head tool offset X,0.000,É m
+2,Head tool offset Y,0.000,É m
+3,Head tool offset Z,0.000,É m
+4,Head tool offset T (DAF),0.000,Åã
+5,Pickup offset X (DAF),0.000,É m
+6,Pickup offset Y (DAF),0.000,É m
+7,Pickup offset T (DAF),0.000,Åã
+8,Pickup offset Z (DAF),0.000,É m
+
+[Stage offset]
+1,Stage offset Z,0.000,É m
+
+[Needle offset]
+1,Needle position offset X,0.000,É m
+2,Needle position offset Y,0.000,É m
+3,Outer needle offset Z,0.000,É m
+4,Inner needle offset Z,0.000,É m
+5,Needle offset Z1,0.000,É m
+6,Needle offset Z2,0.000,É m
+7,Needle offset Z3,0.000,É m
+
+[Transfer head stage side offset]
+1,T/H stage side offset X,0.000,É m
+2,T/H stage side offset Y,0.000,É m
+3,T/H stage side offset Z,0.000,É m
+4,T/H S side NG offset X,0.000,É m
+5,T/H S side NG offset Y,0.000,É m
+6,T/H S side NG offset Z,0.000,É m
+
+[Transfer head wafer side offset]
+1,T/H wafer side offset X,0.000,É m
+2,T/H wafer side offset Z,0.000,É m
+
+[Clamper offset]
+1,Clamper offset X,0.000,É m
+2,Clamper offset Y,0.000,É m
+3,Clamper offset Z,0.000,É m
+
+[Interposer tip offset]
+1,Interposer tip offset,0.000,É m
+
+[Prebake offset]
+1,Prebake offset Z,0.000,É m
+
+[Lamination offset]
+1,Head offset Z,0.000,É m
+2,Stage offset Z,0.000,É m
+3,Interposer tip offset,0.000,É m
+
+[Lamination head condition]
+1,Bond force,0.000,N
+2,Bond force tolerance,0.000,N
+3,Bond time,0.000,ms
+4,Slow start height,500.000,É m
+5,Touch down speed,4.000,mm/s
+6,Initial speed,200.000,mm/s
+7,Serch speed,8.000,mm/s
+8,Block lamination,1.000,
+9,Temp. recovery time,0.000,ms
+
+[Lamination tool cleaning 1]
+1,Frequancy,27.000,CYC
+2,Temp. recovery time,0.000,ms
+3,Grindstone stroke X,2000.000,É m
+4,Grindstone stroke Y,3000.000,É m
+5,Number of cycles(G/S),3.000,
+6,Grind force(G/S),29.400,N
+7,Tolerable cleaning force,29.400,N
+8,Grindstone speed,10.000,mm/s
+
+[Lamination tool cleaning 2]
+1,Brush stroke X,2000.000,É m
+2,Brush stroke Y,3000.000,É m
+3,Number of cycles(G/B),3.000,
+4,Grind force(G/B),14.700,N
+5,Tolerable cleaning force,9.800,N
+6,Grindbrush speed,10.000,mm/s
+
+[Lamination stage motion]
+1,Low speed start height,0.000,É m
+2,Low speed Z,10.000,mm/s
+3,(LU)Suction motion,0.000,
+4,(LU)Pre down delay,0.000,ms
+5,(LU)Meniscus down speed,10.000,mm/s
+
+[Lamination stage cleaning]
+1,Frequancy,27.000,CYC
+2,Number of cycles,5.000,
+3,Stroke X,1000.000,É m
+4,Stroke Y,3000.000,É m
+5,Cleaning blow duration,2000.000,ms
+6,Grind speed,5.000,mm/s
+
+[Lamination temp.]
+1,Head heater temp.,0.000,Åé
+2,Head heater limit,0.000,Åé
+3,Head step heat temp.,0.000,Åé
+4,H pause time step temp.,0.000,S
+5,Head heater alarm DET.,1.000,
+6,Stage heater temp.,0.000,Åé
+7,Stage heater limit,0.000,Åé
+8,Stage step heat temp.,0.000,Åé
+9,S pause time step temp.,0.000,S
+10,Stage heater alarm DET.,1.000,
+
+[Lamination tool size]
+1,Head tool (W),9000.000,É m
+2,Head tool (L),65000.000,É m
+3,Stage tool (W),8000.000,É m
+4,Stage tool (L),65000.000,É m
+
+[Lamination rec. / Pattern Rec]
+1,Rec. threshold,75.000,%
+2,Rec. cut off,70.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,150.000,
+5,Rec. coaxial light,50.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+
+[Lamination rec. / Die Presence Rec]
+1,Rec. ring light,150.000,
+2,Rec. coaxial light,50.000,
+3,Upper brightness,200.000,
+4,Lower brightness,100.000,
+
+[Lamination inspection teaching 1]
+1,Inspection mode,0.000,
+2,Num of die rec point,2.000,
+3,Num of INT. rec point,1.000,
+4,Frequency,1.000,IC
+5,Tolerable displacement X,0.000,É m
+6,Tolerable displacement Y,0.000,É m
+7,Tolerable displacement T,0.000,Åã
+8,Inspection delay,0.000,ms
+
+[Lamination inspection teaching 2]
+1,Inspection start column(Y),1.000,
+2,Frequency(column),1.000,
+3,Inspection start pos(unit),1.000,
+4,Frequency(unit),1.000,
+
+[Lamination inspection / Interposer rec.]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,0.000,
+5,Rec. coaxial light,0.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+
+[Lamination inspection / Die rec.]
+1,Rec. threshold,80.000,%
+2,Rec. cut off,75.000,%
+3,No. of retry,0.000,
+4,Rec. ring light,0.000,
+5,Rec. coaxial light,0.000,
+6,Retry ring light,0.000,
+7,Retry coaxial light,0.000,
+
+[Disabled function check]
+1,INTERPOSER POS REC,1.000,
+2,DIE POS REC(STAGE),1.000,
+3,OVERLAP POS REC,0.000,
+4,DIE POS REC(WAFER),1.000,
+5,DIE INK MARK REC,0.000,
+6,DIE CRACK REC,0.000,
+7,WAFER REC ERROR SKIP,1.000,
+8,CHECK DIE,1.000,
+9,LAMI POS REC,0.000,
+10,DIE PRESENCE REC AT LAMI,0.000,
+11,HIGH ACCURACY REC,0.000,
+12,REV interposer detection,1.000,
+13,Interleaf detection,0.000,
+14,Lamination feed check,0.000,
+15,Post inspection mode,1.000,
+16,Dome recognition,0.000,
+17,Lamination inspection mode,0.000,
+18,Magazine barcode mode,0.000,
+19,DIE PRESENCE REC,0.000,
+20,PB heater alarm DET.,1.000,
+21,Preheater alarm DET.,1.000,
+22,Wafer heater alarm DET.,1.000,
+23,(BH)Heater alarm DET.,1.000,
+24,(BS)Heater alarm DET.,1.000,
+25,(LH)Heater alarm DET.,0.000,
+26,(LS)Heater alarm DET.,0.000,
+27,Interposer feeding,1.000,
+28,Wafer feeding,1.000,
+29,Bond motion,1.000,
+30,Transfer head motion,1.000,
+31,Barcode reading,1.000,
+32,Die Suction detection,1.000,
+33,Pressure detection,1.000,
+34,Wafer ring detection,0.000,
+35,Utility check,1.000,
+36,Wafer recovery,1.000,
+37,Laminate bond,0.000,
+38,WAFER MAP,1.000,
+39,REMOTE,0.000,
+40,Selected BIN category,1.000,
+41,PRE INSPECTION REC,0.000,
+
+
+SYSTEM DATA,31LD002-2020-04-04
+
+[Running mode]
+1,Interposer feeding,1.000,
+2,Wafer feeding,1.000,
+3,Bond motion,1.000,
+4,Transfer head motion,1.000,
+5,Barcode reading,1.000,
+6,Slow interposer feeding,0.000,
+7,Slow wafer feeding,0.000,
+8,Slow bond,0.000,
+9,Slow transfer head,0.000,
+10,Die Suction detection,1.000,
+11,Pressure detection,1.000,
+12,Wafer ring detection,0.000,
+13,Utility check,1.000,
+14,Wafer map ID selection,1.000,
+15,Wafer recovery,1.000,
+16,Wafer map system,0.000,
+17,Lamination bond,0.000,
+18,Slow lamination bond,0.000,
+19,LMU,0.000,
+20,Lot end process,0.000,
+21,IP supply control mode,0.000,
+22,Pre bond rec.,0.000,
+23,IMH no interposer error stop,1.000,
+24,Consumable change mode,0.000,
+25,Host reference die,0.000,
+26,Bond Z teach motion (DAF),0.000,
+27,B stage down when stop (DAF),0.000,
+28,Bond height teach motion (DAF),0.000,
+29,Pickup POS teach motion (DAF),0.000,
+30,Bond land detection (DAF),0.000,
+
+[M/C set]
+1,Barcode reading position,0.000,
+2,Needle motor,0.000,
+3,PGV mode,1.000,
+4,Ejection dome heat,0.000,
+5,Language selection,1.000,
+6,Bond clamper,1.000,
+7,Clamper heater,0.000,
+8,Map display PC,1.000,
+9,Monitor display,0.000,
+
+[Signal set1]
+1,STAND BAY(RED),0.000,
+2,STAND BAY(YELLOW),1.000,
+3,STAND BAY(GREEN),0.000,
+4,STAND BAY(ALARM),0.000,
+5,RUNNING(RED),0.000,
+6,RUNNING(YELLOW),0.000,
+7,RUNNING(GREEN),1.000,
+8,RUNNING(ALARM),0.000,
+9,STOP(RED),1.000,
+10,STOP(YELLOW),0.000,
+11,STOP(GREEN),0.000,
+12,STOP(ALARM),0.000,
+
+[Signal set2]
+1,WARNING(RED),0.000,
+2,WARNING(YELLOW),2.000,
+3,WARNING(GREEN),0.000,
+4,WARNING(ALARM),2.000,
+5,WARNING ALM RST(RED),0.000,
+6,WARNING ALM RST(YELLOW),2.000,
+7,WARNING ALM RST(GREEN),0.000,
+8,WARNING ALM RST(ALARM),0.000,
+9,ERROR(RED),2.000,
+10,ERROR(YELLOW),0.000,
+11,ERROR(GREEN),0.000,
+12,ERROR(ALARM),1.000,
+13,ERROR ALM RST(RED),2.000,
+14,ERROR ALM RST(YELLOW),0.000,
+15,ERROR ALM RST(GREEN),0.000,
+16,ERROR ALM RST(ALARM),0.000,
+
+[SECS background color (1/2)]
+1,Remote/Communicating,1.000,
+2,Local/Communicating,1.000,
+3,Offline/Communicating,1.000,
+4,Remote/Not communicating,0.000,
+5,Local/Not communicating,0.000,
+6,Offline/Not communicating,0.000,
+
+[SECS background color (2/2)]
+1,Map ON,2.000,
+2,Map OFF,0.000,
+3,Remote & Open/Communicat,2.000,
+4,Remote & Open/Not communicat,0.000,
+
+[Input track]
+1,Pusher speed,5.000,%
+2,Prepusher speed,10.000,%
+3,REV interposer DET SPD,10.000,%
+4,Input track roller speed,10.000,%
+5,Pre bond rec. delay,0.000,ms
+
+[Roller gripper(Left)]
+1,(RGL)High speed,5.000,%
+2,(RGL)Low speed,2.000,%
+3,(RGL)High speed Z,5.000,%
+4,(RGL)Low speed Z,2.000,%
+5,Roller speed,5.000,%
+6,Interposer tip DET speed,3.000,%
+7,INT tip DET distance,10000.000,É m
+8,Transfer delay,1000.000,ms
+9,Main track roller feed,60500.000,É m
+10,Interposer wait position,-320000.000,É m
+
+[Roller gripper(Right)]
+1,(RGR)High speed,20.000,%
+2,(RGR)Low speed,6.000,%
+3,(RGR)High speed Z,20.000,%
+4,(RGR)Low speed Z,8.000,%
+5,Roller speed,10.000,%
+
+[Clamper]
+1,Post open delay,50.000,ms
+2,Post close delay,100.000,ms
+3,Clamp high speed,80.000,%
+4,Clamp low speed,10.000,%
+5,Clamp suction delay,0.000,ms
+6,Clamp suction open delay,0.000,ms
+7,Pre blow ON delay,0.000,ms
+8,Pre blow OFF delay,0.000,ms
+
+[Track]
+1,Input track gap,300.000,É m
+2,Main track gap,280.000,É m
+3,First roller speed,60.000,%
+
+[Stacker lifter]
+1,Supply height,20000.000,É m
+2,Descend height,5000.000,É m
+3,Descend speed,20.000,%
+4,Up / Down speed,20.000,%
+5,Stacker lifter offset,27000.000,É m
+
+[Stacker loader arm]
+1,Suction delay,500.000,ms
+2,Suction open delay,1000.000,ms
+3,Number of retry,2.000,
+4,Slide speed,50.000,%
+
+[Lamination 1/2]
+1,Roller speed,50.000,%
+2,Interposer tip DET speed,2.000,%
+3,INT tip DET distance,5000.000,É m
+4,Roller 1 transfer delay,100.000,ms
+5,Roller 2 transfer delay,100.000,ms
+
+[Lamination 2/2]
+1,Clamp suction delay,0.000,ms
+2,Clamp suction open delay,0.000,ms
+3,Pre blow ON delay,0.000,ms
+4,Pre blow OFF delay,0.000,ms
+
+[Lamination(XY unit type)]
+1,Interposer tip DET speed,2.000,%
+2,INT tip DET distance,5000.000,É m
+3,Roller speed,2.000,%
+4,Roller transfer delay,0.000,ms
+5,Feeder transfer delay,200.000,ms
+6,Feeder speed,1.000,%
+7,Feeder open close speed,2.000,%
+8,Clamp open close speed,2.000,%
+9,Delay after clamp open,200.000,ms
+10,Delay after clamp close,200.000,ms
+
+[Input magazine handler]
+1,Unclamp height,-1500.000,É m
+2,Unloading height,3000.000,É m
+3,Up / Down speed,70.000,%
+4,Slide speed,70.000,%
+5,Top clamp delay,500.000,ms
+6,Slide clamp delay,1500.000,ms
+7,Loading order,0.000,
+8,Same magazine mode,0.000,
+
+[Prebake magazine]
+1,Insertion offset,-700.000,É m
+2,Ejection offset,0.000,É m
+3,Up / Down speed,20.000,%
+
+[Output magazine handler]
+1,Unclamp height,-1500.000,É m
+2,Unloading height,3000.000,É m
+3,Up / Down speed,70.000,%
+4,Slide speed,70.000,%
+5,Top clamp delay,500.000,ms
+6,Slide clamp delay,1500.000,ms
+7,Unloading order,0.000,
+
+[Wafer cassette lifter 1/2]
+1,Insertion height for 8inch,0.000,É m
+2,Extraction height for 8inch,500.000,É m
+3,Push in height,0.000,É m
+4,Up / Down high speed,50.000,%
+5,Up / Down low speed,3.000,%
+6,Ring pusher,200.000,ms
+7,Loading order,0.000,
+8,PGV movement delay,1000.000,ms
+9,PGV rotation delay,1000.000,ms
+
+[Wafer cassette lifter 2/2]
+1,Insertion height for 12inch,0.000,É m
+2,Extraction height for 12inch,2000.000,É m
+
+[Wafer extractor]
+1,Release slow speed,2000.000,É m
+2,Grip slow speed,10000.000,É m
+3,Pre push position,-660000.000,É m
+4,Extraction high speed,40.000,%
+5,Extraction low speed,3.000,%
+6,Low speed,10.000,%
+7,Grip delay,50.000,ms
+8,Aligner motion delay,300.000,ms
+9,Gripper motion,300.000,ms
+10,Table movement time,100.000,ms
+
+[Wafer ring holder1]
+1,(W/H)High speed X,80.000,%
+2,(W/H)Low speed X,3.000,%
+3,(W/H)High speed Y,80.000,%
+4,(W/H)Low speed Y,3.000,%
+5,(W/H)High speed Z,30.000,%
+6,(W/H)Low speed Z,3.000,%
+7,(W/H)High speed T,50.000,%
+8,(W/H)Low speed T,3.000,%
+9,Wafer blow duration,50.000,ms
+
+[Wafer ring holder2]
+1,Movable radios for 8inch,102000.000,É m
+2,Movable radios for 12inch,154500.000,É m
+3,Edge NG die pickup,0.000,
+
+[Wafer delay time]
+1,Pre-recognition delay,50.000,ms
+2,Post-recognition delay,100.000,ms
+3,Coaxial light delay,1000.000,ms
+4,Ring light delay,1000.000,ms
+5,Suction timer,50.000,ms
+6,Suction off timer,30.000,ms
+7,Release timer,30.000,ms
+8,Pre-P/U retry REC delay,0.000,ms
+
+[Wafer recognition]
+1,Rationality distance,100.000,É m
+2,Rationality angle,4.000,Åã
+3,Num of rec err skip to stop,0.000,
+
+[Bond head]
+1,(B/H)High speed X,40.000,%
+2,(B/H)Low speed X,3.000,%
+3,(B/H)High speed Y,40.000,%
+4,(B/H)Low speed Y,3.000,%
+5,(B/H)High speed Z,40.000,%
+6,(B/H)Low speed Z,3.000,%
+7,(B/H)Double die detection offset,0.000,É m
+8,(BH)High speed T (DAF),1.000,%
+9,(BH)Low speed T (DAF),1.000,%
+
+[Bond head(P2)(DAF)]
+1,Z wait height (DAF),8000.000,É m
+2,Z cycle height (DAF),8000.000,É m
+3,Manual force (DAF),0.800,N
+4,P/U height teach tolerance (DAF),1000.000,É m
+5,Z over check value (DAF),100.000,É m
+6,Air press tolerance (DAF),0.000,
+
+[Bond head delay timer]
+1,Interposer pre rec. delay,100.000,ms
+2,Overlap pre rec. delay,100.000,ms
+3,Coaxial light delay,100.000,ms
+4,Ring light delay,100.000,ms
+
+[Bond head delay timer(P2)(DAF)]
+1,Wait TM after FEED (DAF),20.000,ms
+2,Pre REC timer (DAF),20.000,ms
+3,Suction open timer (DAF),50.000,ms
+4,BND Z slow down TM (DAF),70.000,ms
+5,P/U Z slow down TM (DAF),70.000,ms
+6,Pre INS REC timer (DAF),1000.000,ms
+7,Force change timer (DAF),100.000,ms
+8,Exhaust timer (DAF),40.000,ms
+
+[Bond head delay timer(P3)(DAF)]
+1,Exhaust timer 2 (DAF),40.000,ms
+2,Force change ST time (DAF),50.000,ms
+3,EXH TM1 (0.5-3N) (DAF),35.000,ms
+4,EXH TM1 (3-10N) (DAF),30.000,ms
+5,EXH TM1 (10-20N) (DAF),25.000,ms
+6,EXH TM1 (20-30N) (DAF),20.000,ms
+7,EXH TM1 (30-40N) (DAF),18.000,ms
+8,EXH TM1 (40-50N) (DAF),18.000,ms
+9,EXH TM1 (50-60N) (DAF),18.000,ms
+10,EXH TM1 (60-70N) (DAF),18.000,ms
+
+[Bond stage]
+1,(B/S)High speed X,40.000,%
+2,(B/S)Low speed X,3.000,%
+3,(B/S)High speed Y,40.000,%
+4,(B/S)Low speed Y,3.000,%
+5,(B/S)High speed Z,40.000,%
+6,(B/S)Low speed Z,3.000,%
+7,(B/S)High speed T,20.000,%
+8,(B/S)Low speed T,3.000,%
+
+[Bond stage delay timer]
+1,Pre bond die detection,200.000,ms
+2,Suction off timing,0.000,ms
+3,Release on timing,0.000,ms
+4,Release time,0.000,ms
+5,Pre rec. delay,50.000,ms
+6,Pause after ascend,0.000,ms
+7,Post bond die detection,100.000,ms
+8,Coaxial light delay,100.000,ms
+9,Ring light delay,100.000,ms
+10,Pre-rec delay aft É∆ corr,0.000,ms
+
+[Bond recognition 1/2]
+1,Die distance,50.000,É m
+2,Die angle,4.000,Åã
+3,Interposer distance,20.000,É m
+4,Interposer angle,1.000,Åã
+5,Overlap distance,10.000,É m
+6,Overlap angle,1.000,Åã
+7,Bond int rec. area X,500.000,É m
+8,Bond int rec. area Y,500.000,É m
+9,The number of repeats,0.000,
+
+[Bond recognition 2/2]
+1,STD of max angle (CCW),2.000,Åã
+2,STD of max angle (CW),-2.000,Åã
+3,STD of T tolerance,1.200,Åã
+4,STD rec. pat. distance,100.000,
+5,Dummy die distance,100.000,É m
+6,Dummy die angle,3.000,Åã
+
+[High accuracy bond]
+1,Tolerance XY,0.000,É m
+2,Tolerance É∆,0.000,Åã
+3,Number of pos correction,0.000,
+4,Interposer rec delay,0.000,ms
+5,Overlap rec delay,0.000,ms
+
+[Bond force offset(P1)(DAF)]
+1,B offset 1 DA value (DAF),100.000,
+2,B offset 1 force value (DAF),0.500,N
+3,B offset 1 air DA value (DAF),800.000,
+4,B offset 2 DA value (DAF),400.000,
+5,B offset 2 force value (DAF),1.000,N
+6,B offset 2 air DA value (DAF),900.000,
+7,B offset 3 DA value (DAF),800.000,
+8,B offset 3 force value (DAF),2.000,N
+9,B offset 3 air DA value (DAF),1050.000,
+
+[Bond force offset(P2)(DAF)]
+1,B offset 4 DA value (DAF),1200.000,
+2,B offset 4 force value (DAF),3.000,N
+3,B offset 4 air DA value (DAF),1200.000,
+4,B offset 5 DA value (DAF),1600.000,
+5,B offset 5 force value (DAF),4.000,N
+6,B offset 5 air DA value (DAF),1350.000,
+7,B offset 6 DA value (DAF),2000.000,
+8,B offset 6 force value (DAF),5.000,N
+9,B offset 6 air DA value (DAF),1500.000,
+
+[Bond force offset(P3)(DAF)]
+1,B offset 7 DA value (DAF),1600.000,
+2,B offset 7 force value (DAF),20.000,N
+3,B offset 7 air DA value (DAF),1600.000,
+4,B offset 8 DA value (DAF),1750.000,
+5,B offset 8 force value (DAF),30.000,N
+6,B offset 8 air DA value (DAF),1750.000,
+7,B offset 9 DA value (DAF),2000.000,
+8,B offset 9 force value (DAF),42.000,N
+9,B offset 9 air DA value (DAF),2000.000,
+
+[Pickup force offset(P1)(DAF)]
+1,P offset 1 DA value (DAF),100.000,
+2,P offset 1 force value (DAF),0.500,N
+3,P offset 1 air DA value (DAF),800.000,
+4,P offset 2 DA value (DAF),400.000,
+5,P offset 2 force value (DAF),1.000,N
+6,P offset 2 air DA value (DAF),900.000,
+7,P offset 3 DA value (DAF),800.000,
+8,P offset 3 force value (DAF),2.000,N
+9,P offset 3 air DA value (DAF),1050.000,
+
+[Pickup force offset(P2)(DAF)]
+1,P offset 4 DA value (DAF),1200.000,
+2,P offset 4 force value (DAF),3.000,N
+3,P offset 4 air DA value (DAF),1200.000,
+4,P offset 5 DA value (DAF),1600.000,
+5,P offset 5 force value (DAF),4.000,N
+6,P offset 5 air DA value (DAF),1350.000,
+7,P offset 6 DA value (DAF),2000.000,
+8,P offset 6 force value (DAF),5.000,N
+9,P offset 6 air DA value (DAF),1500.000,
+
+[Bonding(P1)(DAF)]
+1,Bond cycle time (DAF),10000.000,ms
+2,Bond down start position (DAF),1000.000,É m
+3,Bond land time (DAF),10.000,ms
+4,Bond land press (DAF),250.000,É m
+5,Bond force off height (DAF),300.000,É m
+
+[Bonding(P2)(DAF)]
+1,CLT suction off height (DAF),0.000,É m
+2,CLT suction open off HGT (DAF),5000.000,É m
+3,Z move stop position (DAF),30000.000,É m
+4,XY move start height (DAF),4000.000,É m
+5,Feed start height (DAF),1000.000,É m
+
+[Bonding(P3)(DAF)]
+1,NUM of height teach CHK (DAF),3.000,
+2,Height teach tolerance (DAF),50.000,É m
+3,T home check cycle (DAF),1.000,
+
+[Bonding(P4)(DAF)]
+1,Height teach check HGT 1 (DAF),600.000,É m
+2,Height teach check HGT 2 (DAF),300.000,É m
+3,Height teach check HGT 3 (DAF),100.000,É m
+4,Height teach check HGT 4 (DAF),0.000,É m
+5,Height teach check HGT 5 (DAF),0.000,É m
+6,Height teach check HGT 6 (DAF),0.000,É m
+7,Height teach check HGT 7 (DAF),0.000,É m
+8,Height teach check HGT 8 (DAF),0.000,É m
+9,Height teach check HGT 9 (DAF),0.000,É m
+10,Height teach check HGT 10 (DAF),0.000,É m
+
+[Bonding(P5)(DAF)]
+1,Height teach check SPD 1 (DAF),10.000,mm/s
+2,Height teach check SPD 2 (DAF),10.000,mm/s
+3,Height teach check SPD 3 (DAF),10.000,mm/s
+4,Height teach check SPD 4 (DAF),10.000,mm/s
+5,Height teach check SPD 5 (DAF),10.000,mm/s
+6,Height teach check SPD 6 (DAF),10.000,mm/s
+7,Height teach check SPD 7 (DAF),10.000,mm/s
+8,Height teach check SPD 8 (DAF),10.000,mm/s
+9,Height teach check SPD 9 (DAF),10.000,mm/s
+10,Height teach check SPD 10 (DAF),10.000,mm/s
+
+[Pickup(P1)(DAF)]
+1,P/U cycle time (DAF),10000.000,ms
+2,P/U down start position (DAF),1000.000,É m
+3,P/U land time (DAF),10.000,ms
+4,P/U land press (DAF),250.000,É m
+5,P/U force off height (DAF),300.000,É m
+
+[Pickup(P2)(DAF)]
+1,P/U Z move stop position (DAF),0.000,É m
+2,Wafer recognition position (DAF),0.000,É m
+3,P/U suction wait time (DAF),0.000,ms
+4,P/U XY move start height (DAF),2000.000,É m
+
+[Transfer head stage side]
+1,Die rec. start point,-30000.000,É m
+2,Operating waiting position,-1000.000,É m
+3,Waiting position X,0.000,É m
+4,Waiting position Y,-80000.000,É m
+5,Collet cleaning time,20.000,ms
+6,(T/H S)High speed X,25.000,%
+7,(T/H S)High speed Y,25.000,%
+8,(T/H S)Low speed XY,10.000,%
+9,(T/H S)High speed Z,20.000,%
+10,(T/H S)Low speed Z,10.000,%
+
+[T/H stage side place]
+1,Suction off height,100.000,É m
+2,Suction off delay,0.000,ms
+3,Release on delay,0.000,ms
+4,Release time,120.000,ms
+5,Place high speed,20.000,%
+6,Low speed start point,110.000,É m
+7,Pause time,120.000,ms
+8,Suction on height,1000.000,É m
+9,Suction on delay,0.000,ms
+
+[T/H stage side P/U]
+1,Suction on height,1000.000,É m
+2,Release on delay,0.000,ms
+3,Release time,150.000,ms
+4,Descend speed,20.000,%
+5,Slow speed start point,300.000,É m
+6,Ascend speed,20.000,%
+7,Transfer height,1000.000,É m
+8,Suction off height,1000.000,É m
+9,Suction off delay,0.000,ms
+10,Pause time,120.000,ms
+
+[Reject die tray P/U]
+1,Suction on height,3000.000,É m
+2,Descend speed,20.000,%
+3,Slow speed start point,300.000,É m
+4,Ascend speed,20.000,%
+5,Pause time,200.000,ms
+
+[T/H elevator]
+1,(T/H E)High speed,40.000,%
+2,(T/H E)Low speed,10.000,%
+
+[T/H wafer side]
+1,Wafer rec. start point,0.000,É m
+2,Collet cleaning time,50.000,ms
+3,(T/H W)High speed X,25.000,%
+4,(T/H W)Low speed X,10.000,%
+5,(T/H W)High speed Z,25.000,%
+6,(T/H W)Low speed Z,10.000,%
+
+[T/H wafer side place]
+1,Suction off height,100.000,É m
+2,Suction off delay,0.000,ms
+3,Release on delay,0.000,ms
+4,Release time,120.000,ms
+5,Place high speed,25.000,%
+6,Low speed start point,300.000,É m
+7,Pause time,120.000,ms
+8,Suction on height,3400.000,É m
+9,Suction on delay,0.000,ms
+10,Transfer height,2000.000,É m
+
+[T/H wafer side P/U]
+1,Suction on height,1000.000,É m
+2,Descend speed,20.000,%
+3,Slow speed start point,300.000,É m
+4,Ascend speed,20.000,%
+5,Transfer height,1000.000,É m
+6,P/U suction wait time,0.000,ms
+
+[Ejection]
+1,Cycle height,-500.000,É m
+2,Tolerable height,-300.000,É m
+3,(EJ)High speed,10.000,%
+4,(EJ)Low speed,10.000,%
+5,(EJ)Multi cycle height,0.000,É m
+6,(EJ)Multi wait height,0.000,É m
+
+[Lamination head]
+1,High speed X,35.000,%
+2,Low speed X,10.000,%
+3,High speed Y,35.000,%
+4,Low speed Y,10.000,%
+5,High speed Z,20.000,%
+6,Low speed Z,10.000,%
+
+[Lamination stage]
+1,High speed X,35.000,%
+2,Low speed X,10.000,%
+3,High speed Y,10.000,%
+4,Low speed Y,10.000,%
+5,High speed Z,20.000,%
+6,Low speed Z,5.000,%
+7,Cleaning blow time,2000.000,ms
+
+[Laminate recognition]
+1,Interposer pre rec. delay,50.000,ms
+2,Die presence pre rec. dly,50.000,ms
+3,Coaxial light delay,100.000,ms
+4,Ring light delay,100.000,ms
+5,Lam int rec. area X,500.000,É m
+6,Lam int rec. area Y,500.000,É m
+7,Lam inspection rec delay,0.000,ms
+
+[EPC set]
+1,Name of computer,,
+2,IP Address,0.0.0.0,
+3,Save folder,,
+4,Name of login,,
+5,Password of login,,
+
+
+MACHINE DATA,31LD002-2020-04-04
+
+[Equipment data]
+1,Master data ID,0.000,
+2,Equipment ID,0.000,
+
+[SECS data]
+1,Device ID,100.000,
+2,Status,0.000,
+3,Baud Rate,0.000,
+4,Inter-Character Timeout,0.000,ms
+5,Protocol Timeout,0.000,ms
+6,Reply Timeout,0.000,ms
+7,Inter-Block Timeout,0.000,ms
+8,Retry Limit,0.000,
+9,Recipe name check,0.000,
+
+[SECS data 1/3 (MAP)]
+1,(MAP)Protocol Type,0.000,
+2,(MAP)Device ID,100.000,
+3,(MAP)Communication Status,0.000,
+4,(MAP)Baud Rate,0.000,
+5,(MAP)T1(Inter-Character),0.000,ms
+6,(MAP)T2(Protocol Timeout),0.000,ms
+7,(MAP)T3(Reply Timeout),0.000,ms
+8,(MAP)T4(Inter-Block Timeout),0.000,ms
+9,(MAP)Retry Limit,0.000,
+
+[SECS data 2/3 (MAP)]
+1,(MAP)T5(Connect Separation),10000.000,ms
+2,(MAP)T6(Control Transaction),5000.000,ms
+3,(MAP)T7(NOT SELECTED),10000.000,ms
+4,(MAP)T8(Network Character),5000.000,ms
+5,(MAP)HSMS Connect Mode,0.000,
+6,(MAP)IP Address(Equip) 1,0.000,
+7,(MAP)IP Address(Equip) 2,0.000,
+8,(MAP)IP Address(Equip) 3,0.000,
+9,(MAP)IP Address(Equip) 4,0.000,
+10,(MAP)IP Address(Host) 1,0.000,
+11,(MAP)IP Address(Host) 2,0.000,
+12,(MAP)IP Address(Host) 3,0.000,
+13,(MAP)IP Address(Host) 4,0.000,
+14,(MAP)Sub-net Mask 1,255.000,
+15,(MAP)Sub-net Mask 2,255.000,
+16,(MAP)Sub-net Mask 3,255.000,
+17,(MAP)Sub-net Mask 4,0.000,
+18,(MAP)Default Gateway 1,0.000,
+19,(MAP)Default Gateway 2,0.000,
+20,(MAP)Default Gateway 3,0.000,
+21,(MAP)Default Gateway 4,0.000,
+22,(MAP)TCP Port Number,5000.000,
+
+[SECS data 3/3 (MAP)]
+1,(MAP)Link Test Timer,5000.000,ms
+2,(MAP)Log Output,0.000,
+3,(MAP)Data overwrite,0.000,
+
+[SECS data 1/3 (HOST IF)]
+1,Protocol Type,0.000,
+2,Device ID,100.000,
+3,Communication Status,1.000,
+4,Baud Rate,9600.000,
+5,T1(Inter-Character),500.000,ms
+6,T2(Protocol Timeout),3000.000,ms
+7,T3(Reply Timeout),20000.000,ms
+8,T4(Inter-Block Timeout),20000.000,ms
+9,Retry Limit,3.000,
+
+[SECS data 2/3 (HOST IF)]
+1,T5(Connect Separation),10000.000,ms
+2,T6(Control Transaction),10000.000,ms
+3,T7(NOT SELECTED),10000.000,ms
+4,T8(Network Character),5000.000,ms
+5,HSMS Connect Mode,1.000,
+6,IP Address(Equip) 1,0.000,
+7,IP Address(Equip) 2,0.000,
+8,IP Address(Equip) 3,0.000,
+9,IP Address(Equip) 4,0.000,
+10,IP Address(Host) 1,0.000,
+11,IP Address(Host) 2,0.000,
+12,IP Address(Host) 3,0.000,
+13,IP Address(Host) 4,0.000,
+14,Sub-net Mask 1,255.000,
+15,Sub-net Mask 2,255.000,
+16,Sub-net Mask 3,255.000,
+17,Sub-net Mask 4,0.000,
+18,Default Gateway 1,0.000,
+19,Default Gateway 2,0.000,
+20,Default Gateway 3,0.000,
+21,Default Gateway 4,0.000,
+22,TCP Port Number,5000.000,
+
+[SECS data 3/3 (HOST IF)]
+1,Link Test Timer,5000.000,ms
+2,Remote command timeout,30000.000,ms
+3,PPSELECT mode,0.000,
+4,Log Output,0.000,
+5,Control state default,0.000,
+6,Data overwrite,0.000,
+7,PM sum mode,0.000,
+8,Map download,0.000,
+
+[Input track]
+1,Pusher home position,7000.000,É m
+2,Prepusher home position,-1000.000,É m
+3,Insertion offset,0.000,É m
+4,REV INT sensor pos,292500.000,É m
+
+[Roller gripper(Left)]
+1,Interposer grip position,20500.000,É m
+2,Upper home position Z,1764.000,É m
+3,Lower home position Z,-2180.000,É m
+4,Interposer tip sensor pos,-21165.000,É m
+
+[Roller gripper(Right)]
+1,Upper home position Z,1496.000,É m
+2,Lower home position Z,-1788.000,É m
+3,Receiving position,45000.000,É m
+4,Unloading position,127000.000,É m
+
+[Clamper]
+1,Clamper home position,-2200.000,É m
+2,Clamp home pos(Left),-756.000,É m
+
+[Track]
+1,Input track home pos.,48600.000,É m
+2,Main track home pos.,48200.000,É m
+3,Track gap,3650.000,É m
+
+[Stacker lifter]
+1,Home position Z,-109500.000,É m
+2,Home position Y,-64300.000,É m
+3,Stacker lifter cut-out,3000.000,É m
+
+[Stacker loader arm]
+1,Motion home position,-5000.000,É m
+2,Double INT resolution,0.500,É m
+3,Double interposer offset,63.000,
+
+[Lamination]
+1,Interposer tip sensor pos,-33100.000,É m
+2,Lamination bond pos,427500.000,É m
+3,Feeder home position,-72000.000,É m
+4,Feeder right limit,204000.000,É m
+5,Feeder left limit,-102000.000,É m
+6,Gripper home position,4.000,Åã
+7,Clamper home position,5.000,Åã
+
+[Input magazine handler]
+1,Home position Y,-66860.000,É m
+2,Home position Z,-182185.000,É m
+3,Unloading position Y,61140.000,É m
+4,Input buffer height,-197200.000,É m
+5,Output buffer height,32500.000,É m
+
+[Prebake magazine]
+1,Home position Z,-124000.000,É m
+
+[Output magazine handler]
+1,Home position Y,69100.000,É m
+2,Home position Z,53165.000,É m
+3,Unloading position Y,-59735.000,É m
+4,Input buffer height,-185500.000,É m
+5,Output buffer height,44000.000,É m
+6,Barcode read height,-20000.000,É m
+
+[Wafer cassette lifter]
+1,Cassette lifter home,-388000.000,É m
+2,Heat height,-397000.000,É m
+3,8 inch heat case,-30000.000,É m
+4,12 inch heat case,-41000.000,É m
+5,Cassette waiting position,-350000.000,É m
+6,Cassette change height,140000.000,É m
+7,Load port Z offset,75000.000,É m
+8,Load port Z offset; PGV,75000.000,É m
+
+[Wafer extractor]
+1,Home position,-5000.000,É m
+2,Grip position,-742000.000,É m
+3,Push position,-700000.000,É m
+4,Waiting position,-700000.000,É m
+5,Ring aligner POS. for 8inch,-666000.000,É m
+6,Ring aligner POS. for 12inch,-700000.000,É m
+7,Unload position,-743433.800,É m
+8,Release position,-232903.900,É m
+
+[Wafer ring holder]
+1,Home position X,86778.100,É m
+2,Home position Y,-498.400,É m
+3,Home position T,0.000,Åã
+4,Home position Z,798.600,É m
+5,Hand over position X,-10000.000,É m
+6,Hand over position Y,-150800.000,É m
+7,Hand over position T,90.000,Åã
+8,8inch motion height,23000.000,É m
+9,12inch motion height,26000.000,É m
+10,Holder heat height,0.000,É m
+
+[Bond head1]
+1,Home position X,2732.500,É m
+2,Home position Y,80090.500,É m
+3,Home position Z,8493.232,É m
+4,Camera offset X,-40421.500,É m
+5,Camera offset Y,13833.000,É m
+6,wait position X,-40421.500,É m
+7,wait position Y,13833.000,É m
+8,wait position Z,7500.000,É m
+9,Home position T (DAF),0.000,Åã
+10,TCH-sensor sens (DAF),100.000,É m
+
+[Bond head2]
+1,Head load,3.430,N
+2,Spring module,27.649,N/mm
+3,Bond force correction,-174.024,É m
+4,Loadcell position X,0.000,É m
+5,Loadcell position Y,0.000,É m
+6,Loadcell position Z,-506.600,É m
+7,Tool change position X,0.000,É m
+8,Tool change position Y,-25000.000,É m
+9,Stage change position X (DAF),0.000,É m
+10,Stage change position Y (DAF),30000.000,É m
+
+[Head cleaning]
+1,Stone position X,-8400.000,É m
+2,Stone position Y,82877.000,É m
+3,Stone position Z,322.381,É m
+4,Brush position X,-7902.000,É m
+5,Brush position Y,113404.000,É m
+6,Brush position Z,287.381,É m
+
+[Bond stage]
+1,Home position X,7737.000,É m
+2,Home position Y,-93389.600,É m
+3,Home position Z,-6454.600,É m
+4,Home position T,7.630,Åã
+5,Cam curvature height,-1115.400,É m
+6,Place position X,-27.000,É m
+7,Place position Y,-84896.000,É m
+8,Place position Z,-7000.300,É m
+9,Motion height,-7000.300,É m
+
+[Die locator]
+1,Locate position X,16800.000,É m
+2,Locate position Y,-69800.000,É m
+3,Locate position Z,-5397.500,É m
+4,Removed die stage pos X,15540.000,É m
+5,Removed die stage pos Y,-97979.200,É m
+6,Removed die stage pos Z,-4095.300,É m
+
+[Stage cleaning]
+1,Brush position X,-11000.000,É m
+2,Brush position Y,-97800.000,É m
+3,Brush position Z,-2890.500,É m
+
+[Mark out]
+1,Output delay,100.000,ms
+2,Barcode time out,4000.000,ms
+3,Mark out,0.000,
+
+[Pickup(DAF)]
+1,Pickup position X (DAF),0.000,É m
+2,Pickup position Y (DAF),-45000.000,É m
+3,Pickup position Z (DAF),0.000,É m
+
+[Transfer head stage side 1/3]
+1,(T/H S)Place position X,-4650.000,É m
+2,(T/H S)Place position Y,21200.000,É m
+3,(T/H S)Place position Z,-10252.800,É m
+4,(T/H S)Pickup position X,-4950.000,É m
+5,(T/H S)Pickup position Y,-116600.000,É m
+6,(T/H S)Pickup position Z,-10440.000,É m
+7,(T/H S)Motion height,-8000.000,É m
+8,Cleaning position Y,-75000.000,É m
+
+[Transfer head stage side 2/3]
+1,Reject die place X,-6450.000,É m
+2,Reject die place Y,20900.000,É m
+3,Reject die place Z,-9820.800,É m
+4,Reject die pickup X,-42650.000,É m
+5,Reject die pickup Y,-116800.000,É m
+6,Reject die pickup Z,-10036.800,É m
+7,Maintenance position X,-50000.000,É m
+8,Maintenance position Y,-290000.000,É m
+9,Collet change position X,-50000.000,É m
+10,Collet change position Y,-290000.000,É m
+
+[Transfer head stage side 3/3]
+1,Reject die tray ref. pos. X,-27500.000,É m
+2,Reject die tray ref. pos. Y,-246000.000,É m
+3,Reject die tray P/U pos. Z,-10000.000,É m
+
+[Transfer head elevator]
+1,Upper position,22550.000,É m
+2,Lower position,-358330.000,É m
+
+[Transfer head wafer side1]
+1,(T/H W)Place position X,-49150.000,É m
+2,(T/H W)Place position Z,-4237.500,É m
+3,(T/H W)Pickup position X,70500.000,É m
+4,(T/H W)Pickup position Z,-6375.000,É m
+5,(T/H W)Place waiting position,51500.000,É m
+
+[Transfer head wafer side2]
+1,Reject die place X,-85200.000,É m
+2,Reject die place Z,-4300.000,É m
+3,Cleaning position,-5000.000,É m
+
+[Ejection]
+1,Outer needle home pos,-2450.000,É m
+2,Inner needle home pos,0.000,É m
+
+[Wafer vision1]
+1,(W)Vision resolution X1,34.335,É m
+2,(W)Vision resolution Y1,34.430,É m
+3,(W)Zoom pulse 1,200.000,
+4,(W)Vision offset X1,0.000,É m
+5,(W)Vision offset Y1,0.000,É m
+6,(W)Vision resolution X2,31.907,É m
+7,(W)Vision resolution Y2,31.985,É m
+8,(W)Zoom pulse 2,230.000,
+9,(W)Vision offset X2,0.000,É m
+10,(W)Vision offset Y2,0.000,É m
+
+[Wafer vision2]
+1,(W)Vision resolution X3,29.556,É m
+2,(W)Vision resolution Y3,29.622,É m
+3,(W)Zoom pulse 3,260.000,
+4,(W)Vision offset X3,0.000,É m
+5,(W)Vision offset Y3,0.000,É m
+6,(W)Vision resolution X4,26.498,É m
+7,(W)Vision resolution Y4,26.555,É m
+8,(W)Zoom pulse 4,300.000,
+9,(W)Vision offset X4,0.000,É m
+10,(W)Vision offset Y4,0.000,É m
+
+[Wafer vision3]
+1,(W)Vision resolution X5,20.669,É m
+2,(W)Vision resolution Y5,20.671,É m
+3,(W)Zoom pulse 5,380.000,
+4,(W)Vision offset X5,0.000,É m
+5,(W)Vision offset Y5,0.000,É m
+6,(W)Vision resolution X6,16.061,É m
+7,(W)Vision resolution Y6,16.097,É m
+8,(W)Zoom pulse 6,460.000,
+9,(W)Vision offset X6,0.000,É m
+10,(W)Vision offset Y6,0.000,É m
+
+[Wafer vision4]
+1,(W)Vision resolution X7,12.699,É m
+2,(W)Vision resolution Y7,12.718,É m
+3,(W)Zoom pulse 7,550.000,
+4,(W)Vision offset X7,0.000,É m
+5,(W)Vision offset Y7,0.000,É m
+6,(W)Vision resolution X8,10.558,É m
+7,(W)Vision resolution Y8,10.579,É m
+8,(W)Zoom pulse 8,630.000,
+9,(W)Vision offset X8,0.000,É m
+10,(W)Vision offset Y8,0.000,É m
+
+[Wafer vision5]
+1,(W)Vision resolution X9,8.922,É m
+2,(W)Vision resolution Y9,8.944,É m
+3,(W)Zoom pulse 9,710.000,
+4,(W)Vision offset X9,0.000,É m
+5,(W)Vision offset Y9,0.000,É m
+6,(W)Vision resolution X10,8.238,É m
+7,(W)Vision resolution Y10,8.255,É m
+8,(W)Zoom pulse 10,750.000,
+9,(W)Vision offset X10,0.000,É m
+10,(W)Vision offset Y10,0.000,É m
+
+[Stage vision1]
+1,(S)Vision resolution X1,19.976,É m
+2,(S)Vision resolution Y1,20.028,É m
+3,(S)Zoom pulse 1,0.000,
+4,(S)Vision offset X1,0.000,É m
+5,(S)Vision offset Y1,0.000,É m
+6,(S)Vision resolution X2,17.110,É m
+7,(S)Vision resolution Y2,17.135,É m
+8,(S)Zoom pulse 2,100.000,
+9,(S)Vision offset X2,0.000,É m
+10,(S)Vision offset Y2,0.000,É m
+
+[Stage vision2]
+1,(S)Vision resolution X3,14.517,É m
+2,(S)Vision resolution Y3,14.532,É m
+3,(S)Zoom pulse 3,200.000,
+4,(S)Vision offset X3,0.000,É m
+5,(S)Vision offset Y3,0.000,É m
+6,(S)Vision resolution X4,12.149,É m
+7,(S)Vision resolution Y4,12.152,É m
+8,(S)Zoom pulse 4,300.000,
+9,(S)Vision offset X4,0.000,É m
+10,(S)Vision offset Y4,0.000,É m
+
+[Stage vision3]
+1,(S)Vision resolution X5,10.011,É m
+2,(S)Vision resolution Y5,10.025,É m
+3,(S)Zoom pulse 5,400.000,
+4,(S)Vision offset X5,0.000,É m
+5,(S)Vision offset Y5,0.000,É m
+6,(S)Vision resolution X6,8.472,É m
+7,(S)Vision resolution Y6,8.482,É m
+8,(S)Zoom pulse 6,480.000,
+9,(S)Vision offset X6,0.000,É m
+10,(S)Vision offset Y6,0.000,É m
+
+[Stage vision4]
+1,(S)Vision resolution X7,7.046,É m
+2,(S)Vision resolution Y7,7.063,É m
+3,(S)Zoom pulse 7,560.000,
+4,(S)Vision offset X7,0.000,É m
+5,(S)Vision offset Y7,0.000,É m
+6,(S)Vision resolution X8,5.828,É m
+7,(S)Vision resolution Y8,5.843,É m
+8,(S)Zoom pulse 8,640.000,
+9,(S)Vision offset X8,0.000,É m
+10,(S)Vision offset Y8,0.000,É m
+
+[Stage vision5]
+1,(S)Vision resolution X9,4.743,É m
+2,(S)Vision resolution Y9,4.733,É m
+3,(S)Zoom pulse 9,720.000,
+4,(S)Vision offset X9,0.000,É m
+5,(S)Vision offset Y9,0.000,É m
+6,(S)Vision resolution X10,4.357,É m
+7,(S)Vision resolution Y10,4.355,É m
+8,(S)Zoom pulse 10,750.000,
+9,(S)Vision offset X10,0.000,É m
+10,(S)Vision offset Y10,0.000,É m
+
+[Interposer vision]
+1,(H)Vision resolution X,10.744,É m
+2,(H)Vision resolution Y,10.733,É m
+
+[Lamination vision]
+1,(L)Vision resolution X,10.546,É m
+2,(L)Vision resolution Y,10.528,É m
+
+[Laminate head]
+1,Home position Z,14594.824,É m
+2,Wait position Z,14500.000,É m
+3,Head load,9.800,N
+4,Spring module,40.982,N/mm
+5,Bond foce correction,-324.933,É m
+6,Spring module at low,36.922,N/mm
+7,Foce correction at low,-193.833,É m
+8,Inflection point,49.000,N
+9,Loadcell position Z,-278.015,É m
+
+[Laminate head 1 (XY unit type)]
+1,Home position X,-1724.500,É m
+2,Home position Y,121146.000,É m
+3,Home position Z,14594.824,É m
+4,Camera offset X,-8932.000,É m
+5,Camera offset Y,77327.000,É m
+6,Wait position X,-8932.000,É m
+7,Wait position Y,77327.000,É m
+8,Wait position Z,14500.000,É m
+9,Motion height over track,2000.000,É m
+
+[Laminate head 2 (XY unit type)]
+1,Head load,9.800,N
+2,Spring module,40.982,N/mm
+3,Bond foce correction,-324.933,É m
+4,Spring module at low,36.922,N/mm
+5,Foce correction at low,-193.833,É m
+6,Inflection point,49.000,N
+7,Loadcell position X,0.000,É m
+8,Loadcell position Y,0.000,É m
+9,Loadcell position Z,-278.015,É m
+
+[Laminate head cleaning]
+1,Stone position X,-9600.000,É m
+2,Stone position Y,134000.000,É m
+3,Stone position Z,12471.985,É m
+4,Brush position X,-9600.000,É m
+5,Brush position Y,134000.000,É m
+6,Brush position Z,12542.985,É m
+
+[Laminate stage]
+1,Home position Z,-6022.900,É m
+2,Cam curvature height,-1604.300,É m
+3,Wait position Z,-10424.600,É m
+
+[Laminate stage (XY unit type)]
+1,Home position X,-29346.500,É m
+2,Home position Y,5286.000,É m
+3,Home position Z,-6022.900,É m
+4,Cam curvature height,-1604.300,É m
+5,Wait position X,0.000,É m
+6,Wait position Y,0.000,É m
+7,Wait position Z,-10424.600,É m
+8,Motion height,-2000.000,É m
+
+[Laminate stage cleaning]
+1,Brush position X,-31500.000,É m
+2,Brush position Y,135000.000,É m
+3,Brush position Z,-7549.000,É m
+4,(LS)Height to cleaning pos.,-10500.000,É m

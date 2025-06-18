@@ -1,0 +1,6 @@
+Sleep(3000)
+Send($CmdLine[0])
+Send('break')
+Send($CmdLine[1])
+Send('break')
+Send($CmdLine[2])

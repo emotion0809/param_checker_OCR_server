@@ -1,0 +1,19 @@
+$interval = 1000
+$lognInterval=3000
+Sleep($lognInterval)
+Send("192.168.1.91")
+Sleep($interval)
+Send("!S")
+Sleep($interval)
+;大寫B無效
+Send("^b")
+Sleep($interval)
+Send("L")
+Sleep($interval)
+Send("!J")
+Sleep($interval)
+Send("^b")
+Sleep($interval)
+Send("H")
+Sleep($interval)
+Send("!J")

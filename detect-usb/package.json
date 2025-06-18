@@ -1,0 +1,21 @@
+{
+  "name": "modbus-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modbus"
+  ],
+  "author": "hkk",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "modbus-serial": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}

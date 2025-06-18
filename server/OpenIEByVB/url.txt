@@ -1,0 +1,1 @@
+https://192.168.0.192/dpa.asp?username=admin&password=123456&port=4&client=vkc

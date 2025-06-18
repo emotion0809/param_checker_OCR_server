@@ -1,0 +1,12 @@
+測試流程：
+    1.至產線資料夾啟動【USB偵測】
+    2.至IT資料夾啟動【模擬OCR】與【編輯器】
+    3.待【USB偵測】連線至主程式後便可開始進行測試
+
+備註：
+    1.欲修改IT電腦IP位址請至產線/ip.txt。
+    2.欲修改所監聽的磁碟請至產線/server與IT/server中的【setting.js】之【diskToCheck】項。
+　　3.進行參數校對之server開在8085，需調整請至產線/server與IT/server中的【setting.js】之【checkParamHostPort】項。
+    4.OCR需開8025port（等參數校對程式連線），欲修改請至
+　　　產線/server與IT/server中的【setting.js】之【ocrPortForParamCheck】項。
+    5.主程式需開8026port以供參數校對結果傳輸

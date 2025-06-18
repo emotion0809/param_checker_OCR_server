@@ -1,0 +1,4 @@
+重新開機開啟IE流程 -> 完成後等待網頁切換開始流程
+
+開啟IE -> Tab*1 -> 貼上https://192.168.0.192/dpa.asp?username=admin&password=123456&port=24&client=vkc -> 鍵入Enter
+Tab*8 -> 鍵入Enter -> Tab*2 ->鍵入Enter(等待5秒) -> Tab*2 -> 鍵入Enter -> 鍵入Enter(連線錯誤確認)

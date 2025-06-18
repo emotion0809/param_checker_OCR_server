@@ -1,0 +1,21 @@
+1.自動開程式藏於背景
+2.畫面太小
+3.Qnx
+4.kvm亂跳
+5.auto(item),離開機台要暫停
+6.loader
+7.Automation 跳到機台畫面
+8.凡是比對結果就跳窗是
+
+
+你要去開按鍵精靈 opt.mamc
+在你鎖定start鍵的時後
+
+主控server:
+297023367
+u4tf78
+
+QnxServer:
+
+297039684
+wsf245
